@@ -2,17 +2,25 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 6 条 Gemini 4 Neon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Neon 一键 **复刻**。第一次写 Gemini 4 Neon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 7 条 Gemini 4 Neon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Neon 一键 **复刻**。第一次写 Gemini 4 Neon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (2)
+- [3D 场景](#3d-scene) (3)
 - [动效](#motion-graphics) (1)
 - [测试对比](#comparison) (3)
 
 <a id="3d-scene"></a>
 
 ## 3D 场景
+
+### Three.js 中骑自行车的鹈鹕
+
+[@StatsWire](https://x.com/StatsWire/status/2123160089854898346) · 0:12 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123160089854898346/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123160089854898346?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon: "Pelican riding a bicycle" in Three.js.
+```
 
 ### Three.js与GLSL生成的场景
 

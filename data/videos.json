@@ -14,7 +14,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2122954421050933355/video.mp4",
   "promptShared": true,
   "promptText": "Is this Gemini 4 Neon ?\nPrompt: Make a pelican SVG",
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2122954421050933355/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2122954421050933355"
  },
@@ -86,9 +86,28 @@
   "durationMs": 26333,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123159335635456318/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123159335635456318/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123159335635456318"
+ },
+ {
+  "id": "2123160089854898346",
+  "title": "Pelican riding a bicycle in Three.js",
+  "title_zh": "Three.js 中骑自行车的鹈鹕",
+  "category": "3d-scene",
+  "author": {
+   "handle": "StatsWire",
+   "name": "Stats Wire"
+  },
+  "postUrl": "https://x.com/StatsWire/status/2123160089854898346",
+  "createdAt": "2026-11-18T21:03:06.000Z",
+  "durationMs": 12000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123160089854898346/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Neon: \"Pelican riding a bicycle\" in Three.js.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123160089854898346/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123160089854898346"
  },
  {
   "id": "2123160092657021432",
@@ -123,7 +142,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123162154132242885/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Neon 实测\n\nThree.js + GLSL 代码直出 耗时 2分40秒\n\n提示词在评论区",
-  "featured": 0,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123162154132242885/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123162154132242885"
  },
@@ -159,7 +178,7 @@
   "durationMs": 32000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123165046276760028/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123165046276760028/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123165046276760028"
  },
@@ -213,9 +232,27 @@
   "durationMs": 51266,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123169783038235033/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123169783038235033/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123169783038235033"
+ },
+ {
+  "id": "2123170821250400282",
+  "title": "Robotic dog biomechanics simulation in Three.js WebGPU",
+  "title_zh": "Three.js WebGPU 机器狗生物力学模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2123170821250400282",
+  "createdAt": "2026-11-18T21:45:45.000Z",
+  "durationMs": 51640,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170821250400282/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170821250400282/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123170821250400282"
  },
  {
   "id": "2123170948568535488",
@@ -267,7 +304,7 @@
   "durationMs": 12000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123173513502822864/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123173513502822864/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123173513502822864"
  },
@@ -285,7 +322,7 @@
   "durationMs": 4000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123178088439959750/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123178088439959750/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123178088439959750"
  },
@@ -339,7 +376,7 @@
   "durationMs": 5000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123181843835207955/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123181843835207955/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123181843835207955"
  },
@@ -466,7 +503,7 @@
   "durationMs": 24560,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123189427249742292/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123189427249742292/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123189427249742292"
  },
@@ -562,6 +599,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123212198663323848"
  },
  {
+  "id": "2123219124260315301",
+  "title": "A motion design self-introduction in pure JavaScript",
+  "title_zh": "纯JS代码生成的自我介绍动态设计",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2123219124260315301",
+  "createdAt": "2026-11-19T00:57:41.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123222816325869685/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123222816325869685/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123219124260315301"
+ },
+ {
   "id": "2123220446074253768",
   "title": "Comparison of an Alps mountain hut scene",
   "title_zh": "阿尔卑斯雪山木屋场景模型对比",
@@ -600,24 +655,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123222507977375770"
  },
  {
-  "id": "2123222816325869685",
-  "title": "Motion design created with pure JavaScript code",
-  "title_zh": "纯 JavaScript 代码实现的动态图形设计",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "karanC_12",
-   "name": "KC"
-  },
-  "postUrl": "https://x.com/karanC_12/status/2123222816325869685",
-  "createdAt": "2026-11-19T01:12:21.000Z",
-  "durationMs": 15000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123222816325869685/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123222816325869685/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123222816325869685"
- },
- {
   "id": "2123226306351661099",
   "title": "Fantasy voxel castle scene",
   "title_zh": "体素奇幻城堡场景",
@@ -631,7 +668,7 @@
   "durationMs": 38500,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123226306351661099/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123226306351661099/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123226306351661099"
  }

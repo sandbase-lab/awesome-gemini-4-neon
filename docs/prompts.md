@@ -2,17 +2,25 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-6 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
+7 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (2)
+- [3D scenes](#3d-scene) (3)
 - [Motion graphics](#motion-graphics) (1)
 - [Tests & comparisons](#comparison) (3)
 
 <a id="3d-scene"></a>
 
 ## 3D scenes
+
+### Pelican riding a bicycle in Three.js
+
+[@StatsWire](https://x.com/StatsWire/status/2123160089854898346) · 0:12 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123160089854898346/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123160089854898346?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon: "Pelican riding a bicycle" in Three.js.
+```
 
 ### A Three.js and GLSL scene
 
