@@ -14,7 +14,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2122954421050933355/video.mp4",
   "promptShared": true,
   "promptText": "Is this Gemini 4 Neon ?\nPrompt: Make a pelican SVG",
-  "featured": 0,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2122954421050933355/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2122954421050933355"
  },
@@ -47,7 +47,7 @@
   },
   "postUrl": "https://x.com/AfnadX/status/2123135691085472139",
   "createdAt": "2026-11-18T19:26:09.000Z",
-  "durationMs": 18766,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123135691085472139/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -142,7 +142,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123162154132242885/video.mp4",
   "promptShared": true,
   "promptText": "Gemini 4 Neon 实测\n\nThree.js + GLSL 代码直出 耗时 2分40秒\n\n提示词在评论区",
-  "featured": 3,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123162154132242885/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123162154132242885"
  },
@@ -157,7 +157,7 @@
   },
   "postUrl": "https://x.com/AI_Screening/status/2123164032882659819",
   "createdAt": "2026-11-18T21:18:46.000Z",
-  "durationMs": 14450,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123164032882659819/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -247,7 +247,7 @@
   },
   "postUrl": "https://x.com/thebuggeddev/status/2123170821250400282",
   "createdAt": "2026-11-18T21:45:45.000Z",
-  "durationMs": 51640,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170821250400282/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -265,30 +265,12 @@
   },
   "postUrl": "https://x.com/vamsibatchuk/status/2123170948568535488",
   "createdAt": "2026-11-18T21:46:15.000Z",
-  "durationMs": 168666,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170948568535488/video.mp4",
   "promptShared": false,
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123170948568535488/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123170948568535488"
- },
- {
-  "id": "2123171135437382083",
-  "title": "Real-time supermassive black hole in Three.js",
-  "title_zh": "Three.js实时超大质量黑洞模拟",
-  "category": "3d-scene",
-  "author": {
-   "handle": "srikanthvaluri",
-   "name": "Sree"
-  },
-  "postUrl": "https://x.com/srikanthvaluri/status/2123171135437382083",
-  "createdAt": "2026-11-18T21:46:59.000Z",
-  "durationMs": 30634,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123171135437382083/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123171135437382083/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123171135437382083"
  },
  {
   "id": "2123173513502822864",
@@ -304,7 +286,7 @@
   "durationMs": 12000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123173513502822864/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123173513502822864/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123173513502822864"
  },
@@ -322,7 +304,7 @@
   "durationMs": 4000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123178088439959750/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123178088439959750/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123178088439959750"
  },
@@ -376,7 +358,7 @@
   "durationMs": 5000,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123181843835207955/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123181843835207955/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123181843835207955"
  },
@@ -428,10 +410,10 @@
   },
   "postUrl": "https://x.com/chetaslua/status/2123184113561817370",
   "createdAt": "2026-11-18T22:38:34.000Z",
-  "durationMs": 14200,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123184113561817370/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123184113561817370/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123184113561817370"
  },
@@ -503,7 +485,7 @@
   "durationMs": 24560,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123189427249742292/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123189427249742292/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123189427249742292"
  },
@@ -591,10 +573,10 @@
   },
   "postUrl": "https://x.com/abhinavflac/status/2123212198663323848",
   "createdAt": "2026-11-19T00:30:10.000Z",
-  "durationMs": 36716,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123212198663323848/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123212198663323848/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123212198663323848"
  },
@@ -609,7 +591,7 @@
   },
   "postUrl": "https://x.com/chetaslua/status/2123219124260315301",
   "createdAt": "2026-11-19T00:57:41.000Z",
-  "durationMs": 15000,
+  "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123222816325869685/video.mp4",
   "promptShared": false,
   "featured": null,
@@ -668,8 +650,916 @@
   "durationMs": 38500,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123226306351661099/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123226306351661099/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123226306351661099"
+ },
+ {
+  "id": "2123246994496077998",
+  "title": "A 15 second promo video for Gemini 4 neon",
+  "title_zh": "Gemini 4 neon 的15秒宣传片",
+  "category": "launch-film",
+  "author": {
+   "handle": "cfenghub",
+   "name": "CF长风"
+  },
+  "postUrl": "https://x.com/cfenghub/status/2123246994496077998",
+  "createdAt": "2026-11-19T02:48:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123246994496077998/video.mp4",
+  "promptShared": true,
+  "promptText": "你敢信？我看到了小团队的春天！\n\n让Gemini 4 neon 给 Gemini 4 neon写一个15秒的宣传片\n自己写提示词，自己写视频，单页HTML，全程无介入。。。\n\n这个效果你觉得如何？\n\n提示词在评论区",
+  "featured": 7,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123246994496077998/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123246994496077998"
+ },
+ {
+  "id": "2123259795172212871",
+  "title": "Artistic butterflies rendered in Three.js",
+  "title_zh": "Three.js 呈现的艺术蝴蝶",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thtbee_",
+   "name": "Bee"
+  },
+  "postUrl": "https://x.com/thtbee_/status/2123259795172212871",
+  "createdAt": "2026-11-19T03:39:18.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123259795172212871/video.mp4",
+  "promptShared": false,
+  "featured": 3,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123259795172212871/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123259795172212871"
+ },
+ {
+  "id": "2123362270139109827",
+  "title": "Motion design animation for AI products",
+  "title_zh": "为多款AI产品制作的动态设计视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Tuola0205",
+   "name": "Tuola Ge"
+  },
+  "postUrl": "https://x.com/Tuola0205/status/2123362270139109827",
+  "createdAt": "2026-11-19T10:26:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2123362270139109827/video.mp4",
+  "promptShared": false,
+  "featured": 0,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2123362270139109827/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123362270139109827"
+ },
+ {
+  "id": "2123375564509921472",
+  "title": "A glossy Three.js 3D scene animation",
+  "title_zh": "由Three.js生成的质感3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "29meat_ai",
+   "name": "にく"
+  },
+  "postUrl": "https://x.com/29meat_ai/status/2123375564509921472",
+  "createdAt": "2026-11-19T11:19:19.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123375564509921472/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123375564509921472/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123375564509921472"
+ },
+ {
+  "id": "2123384156629651678",
+  "title": "A car crashing through a wall in Three.js",
+  "title_zh": "Three.js 模拟汽车撞墙场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "camperaigg",
+   "name": "camper 🦎🎣"
+  },
+  "postUrl": "https://x.com/camperaigg/status/2123384156629651678",
+  "createdAt": "2026-11-19T11:53:28.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123384156629651678/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123384156629651678/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123384156629651678"
+ },
+ {
+  "id": "2123416610794848660",
+  "title": "Comparison of a mechanical watch model generation",
+  "title_zh": "机械手表模型生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "remoteugur",
+   "name": "Uğur Keşkekçi"
+  },
+  "postUrl": "https://x.com/remoteugur/status/2123416610794848660",
+  "createdAt": "2026-11-19T14:02:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123416610794848660/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123416610794848660/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123416610794848660"
+ },
+ {
+  "id": "2123446204172472363",
+  "title": "A 3D space racer game",
+  "title_zh": "一款3D太空竞速游戏",
+  "category": "game",
+  "author": {
+   "handle": "byharisali",
+   "name": "Haris Ali"
+  },
+  "postUrl": "https://x.com/byharisali/status/2123446204172472363",
+  "createdAt": "2026-11-19T16:00:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123446204172472363/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123446204172472363/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123446204172472363"
+ },
+ {
+  "id": "2123488006665363654",
+  "title": "Comparison of animated characters between models",
+  "title_zh": "模型间动画角色生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "IndependentEco",
+   "name": "Eco"
+  },
+  "postUrl": "https://x.com/IndependentEco/status/2123488006665363654",
+  "createdAt": "2026-11-19T18:46:07.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123488006665363654/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123488006665363654/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123488006665363654"
+ },
+ {
+  "id": "2123554016663834933",
+  "title": "Comparing video editing across AI models",
+  "title_zh": "多款AI模型视频剪辑效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "motion_so",
+   "name": "Motion"
+  },
+  "postUrl": "https://x.com/motion_so/status/2123554016663834933",
+  "createdAt": "2026-11-19T23:08:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123554016663834933/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123554016663834933/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123554016663834933"
+ },
+ {
+  "id": "2123816445180088544",
+  "title": "Comparing Claude and Gemini models drawing fruit",
+  "title_zh": "Claude与Gemini模型绘制水果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AIMind_Ai",
+   "name": "AiMind"
+  },
+  "postUrl": "https://x.com/AIMind_Ai/status/2123816445180088544",
+  "createdAt": "2026-11-20T16:31:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123816445180088544/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123816445180088544/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123816445180088544"
+ },
+ {
+  "id": "2123831991061840145",
+  "title": "ASCII animation of a pelican riding a bicycle",
+  "title_zh": "骑自行车的鹈鹕ASCII字符动画",
+  "category": "kinetic-type",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2123831991061840145",
+  "createdAt": "2026-11-20T17:33:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123831991061840145/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123831991061840145/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123831991061840145"
+ },
+ {
+  "id": "2123832990598045903",
+  "title": "Squirrel perspective animation model comparison",
+  "title_zh": "松鼠视角下的世界创意动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "DanielZambrini",
+   "name": "Daniel Zambrini"
+  },
+  "postUrl": "https://x.com/DanielZambrini/status/2123832990598045903",
+  "createdAt": "2026-11-20T17:36:58.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123832990598045903/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123832990598045903/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123832990598045903"
+ },
+ {
+  "id": "2123843882937155607",
+  "title": "A 3D V12 engine built in Three.js",
+  "title_zh": "在 Three.js 中构建的 3D V12 发动机",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thtbee_",
+   "name": "Bee"
+  },
+  "postUrl": "https://x.com/thtbee_/status/2123843882937155607",
+  "createdAt": "2026-11-20T18:20:15.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123843882937155607/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123843882937155607/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123843882937155607"
+ },
+ {
+  "id": "2123948163539329148",
+  "title": "A debut video sequence by Gemini 4 Neon",
+  "title_zh": "由Gemini 4 Neon制作的首次亮相视频序列",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "liu8in",
+   "name": "Bin Liu"
+  },
+  "postUrl": "https://x.com/liu8in/status/2123948163539329148",
+  "createdAt": "2026-11-21T01:14:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123948163539329148/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2123948163539329148/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123948163539329148"
+ },
+ {
+  "id": "2124036193776263671",
+  "title": "A first motion test using Gemini 4 Neon",
+  "title_zh": "使用Gemini 4 Neon进行的首次动态测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ogabezim",
+   "name": "Gabriel Zim"
+  },
+  "postUrl": "https://x.com/ogabezim/status/2124036193776263671",
+  "createdAt": "2026-11-21T07:04:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124036193776263671/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124036193776263671/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124036193776263671"
+ },
+ {
+  "id": "2124040952658682263",
+  "title": "Motion design demonstration by Gemini 4 Neon",
+  "title_zh": "Gemini 4 Neon 动态图形演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "pankajkumar_dev",
+   "name": "Pankaj Kumar"
+  },
+  "postUrl": "https://x.com/pankajkumar_dev/status/2124040952658682263",
+  "createdAt": "2026-11-21T07:23:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124040952658682263/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124040952658682263/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124040952658682263"
+ },
+ {
+  "id": "2124131378770182389",
+  "title": "Code-generated singing and visuals without external assets",
+  "title_zh": "纯代码生成的歌唱音频与视觉效果",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2124131378770182389",
+  "createdAt": "2026-11-21T13:22:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124131378770182389/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124131378770182389/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124131378770182389"
+ },
+ {
+  "id": "2124192968345338206",
+  "title": "Interactive 3D neural character demo with MotionBricks",
+  "title_zh": "基于 MotionBricks 的交互式 3D 神经角色演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ai_for_success",
+   "name": "AshutoshShrivastava"
+  },
+  "postUrl": "https://x.com/ai_for_success/status/2124192968345338206",
+  "createdAt": "2026-11-21T17:27:23.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124192968345338206/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124192968345338206/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124192968345338206"
+ },
+ {
+  "id": "2124508873897726028",
+  "title": "Interactive 3D model of the human eye",
+  "title_zh": "探索视觉机制的人眼交互式 3D 模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2124508873897726028",
+  "createdAt": "2026-11-22T14:22:41.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124508873897726028/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124508873897726028/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124508873897726028"
+ },
+ {
+  "id": "2124558621782495548",
+  "title": "Landing page with animations and microinteractions",
+  "title_zh": "带有动画和微交互的网页落地页",
+  "category": "ui-demo",
+  "author": {
+   "handle": "niachito",
+   "name": "Nacho Iannella"
+  },
+  "postUrl": "https://x.com/niachito/status/2124558621782495548",
+  "createdAt": "2026-11-22T17:40:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124558621782495548/video.mp4",
+  "promptShared": true,
+  "promptText": "Probé Gemini 4 Neon con Antigravity CLI usando la suscripción de Google AI Pro que ya pago.\n\nLe pedí esto:\n\n\"armame una landing de prueba simple html y css con animaciones y microinteracciones para entender todas las capacidades de tu modelo, elegi el tema que mas quieras sorprendeme\"",
+  "featured": 6,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124558621782495548/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124558621782495548"
+ },
+ {
+  "id": "2124565795003105494",
+  "title": "Ocarina of Time papercraft animation in Three.js",
+  "title_zh": "《时之笛》纸艺风格Three.js滚动动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "xikhar",
+   "name": "Shikhar"
+  },
+  "postUrl": "https://x.com/xikhar/status/2124565795003105494",
+  "createdAt": "2026-11-22T18:08:52.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124565795003105494/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124565795003105494/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124565795003105494"
+ },
+ {
+  "id": "2124568183902449764",
+  "title": "First-person mystery game set in Golden Gai",
+  "title_zh": "以黄金街为背景的第一人称解谜游戏",
+  "category": "game",
+  "author": {
+   "handle": "venturetwins",
+   "name": "Justine Moore"
+  },
+  "postUrl": "https://x.com/venturetwins/status/2124568183902449764",
+  "createdAt": "2026-11-22T18:18:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124568183902449764/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124568183902449764/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124568183902449764"
+ },
+ {
+  "id": "2124572099750891577",
+  "title": "A 3D motion teaser using Gemini 4 Neon",
+  "title_zh": "使用Gemini 4 Neon制作的3D动态预告片",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ai_for_success",
+   "name": "AshutoshShrivastava"
+  },
+  "postUrl": "https://x.com/ai_for_success/status/2124572099750891577",
+  "createdAt": "2026-11-22T18:33:55.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124572099750891577/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124572099750891577/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124572099750891577"
+ },
+ {
+  "id": "2124662479863050377",
+  "title": "A performance comparison of Gemini 4 Neon",
+  "title_zh": "Gemini 4 Neon 平台性能对比",
+  "category": "comparison",
+  "author": {
+   "handle": "remoteugur",
+   "name": "Uğur Keşkekçi"
+  },
+  "postUrl": "https://x.com/remoteugur/status/2124662479863050377",
+  "createdAt": "2026-11-23T00:33:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124662479863050377/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124662479863050377/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124662479863050377"
+ },
+ {
+  "id": "2124840481314222508",
+  "title": "An AI generated user generated content video",
+  "title_zh": "人工智能生成的UGC宣传视频",
+  "category": "launch-film",
+  "author": {
+   "handle": "tirtaVEX",
+   "name": "𝗧𝗶𝗿𝘁𝗮"
+  },
+  "postUrl": "https://x.com/tirtaVEX/status/2124840481314222508",
+  "createdAt": "2026-11-23T12:20:23.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124840481314222508/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124840481314222508/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124840481314222508"
+ },
+ {
+  "id": "2124872708366401609",
+  "title": "Image to 3D rigging and animation workflow",
+  "title_zh": "图像转3D绑定与动画制作流程指南",
+  "category": "explainer",
+  "author": {
+   "handle": "ai_for_success",
+   "name": "AshutoshShrivastava"
+  },
+  "postUrl": "https://x.com/ai_for_success/status/2124872708366401609",
+  "createdAt": "2026-11-23T14:28:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124872708366401609/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124872708366401609/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124872708366401609"
+ },
+ {
+  "id": "2124892615946678458",
+  "title": "A video about Jensen Huang's comeback",
+  "title_zh": "关于黄仁勋回归的短片",
+  "category": "explainer",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2124892615946678458",
+  "createdAt": "2026-11-23T15:47:32.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124892615946678458/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Neon is crazy good.\n\nI set it to Xhigh and asked for a video about Jensen huang’s comeback. That was the whole prompt.\n\n30 mins later, I had this clip. It used just 3% of my 5 hr limit.",
+  "featured": 2,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124892615946678458/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124892615946678458"
+ },
+ {
+  "id": "2124919659195756928",
+  "title": "Showcase of a financial terminal competitor",
+  "title_zh": "金融终端竞争产品的展示视频",
+  "category": "ui-demo",
+  "author": {
+   "handle": "jeet_twts",
+   "name": "Jeet"
+  },
+  "postUrl": "https://x.com/jeet_twts/status/2124919659195756928",
+  "createdAt": "2026-11-23T17:35:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124919659195756928/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124919659195756928/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124919659195756928"
+ },
+ {
+  "id": "2124998786863055080",
+  "title": "Animations combining LLM and diffusion models",
+  "title_zh": "结合大语言模型与扩散模型的动画演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "OdinLovis",
+   "name": "Lovis Odin"
+  },
+  "postUrl": "https://x.com/OdinLovis/status/2124998786863055080",
+  "createdAt": "2026-11-23T22:49:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124998786863055080/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2124998786863055080/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124998786863055080"
+ },
+ {
+  "id": "2125001629850345678",
+  "title": "A shader rendered game in HTML",
+  "title_zh": "一个基于HTML的着色器渲染游戏",
+  "category": "game",
+  "author": {
+   "handle": "kevin_t_ngo",
+   "name": "Kevin Ngo"
+  },
+  "postUrl": "https://x.com/kevin_t_ngo/status/2125001629850345678",
+  "createdAt": "2026-11-23T23:00:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125001629850345678/video.mp4",
+  "promptShared": true,
+  "promptText": "Shader-rendered game in a 100KB HTML file, playable in the browser. Made with Gemini 4 Neon using @loktar00's prompt.\n\nhttps://kevintngo.github.io/dungeon-game/",
+  "featured": 5,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125001629850345678/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125001629850345678"
+ },
+ {
+  "id": "2125157673448677586",
+  "title": "A futuristic six-wheel armored monster truck with physics",
+  "title_zh": "具备物理系统的未来六轮装甲卡车",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thebuggeddev",
+   "name": "The Bugged Dev"
+  },
+  "postUrl": "https://x.com/thebuggeddev/status/2125157673448677586",
+  "createdAt": "2026-11-24T09:20:47.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125157673448677586/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125157673448677586/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125157673448677586"
+ },
+ {
+  "id": "2125174944057507944",
+  "title": "Motion graphics video made with Antigravity",
+  "title_zh": "使用 Antigravity 制作的动态图形视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "monarch_0I",
+   "name": "Monarch ⟢"
+  },
+  "postUrl": "https://x.com/monarch_0I/status/2125174944057507944",
+  "createdAt": "2026-11-24T10:29:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125174944057507944/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125174944057507944/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125174944057507944"
+ },
+ {
+  "id": "2125190276646043899",
+  "title": "White House construction comparison between two models",
+  "title_zh": "双模型构建白宫的耗时与成本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "charliejhills",
+   "name": "Charlie Hills"
+  },
+  "postUrl": "https://x.com/charliejhills/status/2125190276646043899",
+  "createdAt": "2026-11-24T11:30:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125190276646043899/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2125190276646043899/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125190276646043899"
+ },
+ {
+  "id": "2125206633722601572",
+  "title": "Illustrated web essay landing page for alpine wildflowers",
+  "title_zh": "多洛米蒂高山野花图文网页设计展示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "_philschmid",
+   "name": "Philipp Schmid"
+  },
+  "postUrl": "https://x.com/_philschmid/status/2125206633722601572",
+  "createdAt": "2026-11-24T12:35:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125206633722601572/video.mp4",
+  "promptShared": true,
+  "promptText": "We built an experimental frontend skill for Gemini 4 Neon to create fast, clean landing pages 🚀\n\nWhat the skill focuses on:\n1. Hero: full-bleed display type, no 50/50 split boxes\n2. Fonts: max 2 families, 3 body sizes, >=13px\n3. Color: subject-matched palette, no beige or purple\n4. Nano Banana: Custom visuals with clean contrast\n5. Anti-slop: No pill badges, eyebrow kickers, or nested cards\n\nPrompt: \"Create an illustrated long-form field web essay on alpine wildflowers of the Dolomites with elevation band notes.\"",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125206633722601572/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125206633722601572"
+ },
+ {
+  "id": "2125230060013781266",
+  "title": "Code based animation by Claude Opus 5.6",
+  "title_zh": "Claude Opus 5.6 生成的代码动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2125230060013781266",
+  "createdAt": "2026-11-24T14:08:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-5/2125228647879733273/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-5/2125228647879733273/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125230060013781266"
+ },
+ {
+  "id": "2125247620667105761",
+  "title": "Playable 3D police chase game comparison",
+  "title_zh": "两款模型生成 3D 追逐游戏的对比",
+  "category": "comparison",
+  "author": {
+   "handle": "fekdaoui",
+   "name": "Fekri"
+  },
+  "postUrl": "https://x.com/fekdaoui/status/2125247620667105761",
+  "createdAt": "2026-11-24T15:18:12.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125247620667105761/video.mp4",
+  "promptShared": true,
+  "promptText": "I gave Gemini 4 Neon and Claude Opus 5.5 the exact same prompt: build a playable 3D GTA VI police chase in one HTML file\n\nNeon took 10m 34s (4,096 lines) and kept GTA VI\n\nOpus took 39m 29s (2,104 lines) and renamed it \"Neon Coast\" to dodge copyright 😭",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125247620667105761/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125247620667105761"
+ },
+ {
+  "id": "2125253560921358463",
+  "title": "Interactive foldable phone unboxing experience",
+  "title_zh": "浏览器端折叠屏手机开箱交互演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2125253560921358463",
+  "createdAt": "2026-11-24T15:41:48.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125253560921358463/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125253560921358463/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125253560921358463"
+ },
+ {
+  "id": "2125260781176709333",
+  "title": "Istanbul Basilica Cistern rendered in Three.js comparison",
+  "title_zh": "Three.js 渲染伊斯坦布尔地下水宫对比",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2125260781176709333",
+  "createdAt": "2026-11-24T16:10:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125260781176709333/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125260781176709333/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125260781176709333"
+ },
+ {
+  "id": "2125266596210061674",
+  "title": "Showcase of AI-generated video examples and styles",
+  "title_zh": "多种风格的 AI 生成视频作品展示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "iamfakhrealam",
+   "name": "Fakhr"
+  },
+  "postUrl": "https://x.com/iamfakhrealam/status/2125266596210061674",
+  "createdAt": "2026-11-24T16:33:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125266596210061674/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125266596210061674/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125266596210061674"
+ },
+ {
+  "id": "2125269462853271952",
+  "title": "Video about what AI likes about humanity",
+  "title_zh": "关于人工智能喜爱人类之处的短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2125269462853271952",
+  "createdAt": "2026-11-24T16:45:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125269462853271952/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125269462853271952/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125269462853271952"
+ },
+ {
+  "id": "2125270092812533820",
+  "title": "Interactive 3D skydeck scene built in Three.js",
+  "title_zh": "Three.js 构建的 3D 观景台交互场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "drashyakuruwa",
+   "name": "Drashya Kuruwa"
+  },
+  "postUrl": "https://x.com/drashyakuruwa/status/2125270092812533820",
+  "createdAt": "2026-11-24T16:47:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125270092812533820/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125270092812533820/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125270092812533820"
+ },
+ {
+  "id": "2125270906293395493",
+  "title": "AI edited video with cloned voiceover",
+  "title_zh": "AI剪辑视频与语音克隆展示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "BreezeOg1",
+   "name": "BreezeOg"
+  },
+  "postUrl": "https://x.com/BreezeOg1/status/2125270906293395493",
+  "createdAt": "2026-11-24T16:50:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125270906293395493/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125270906293395493/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125270906293395493"
+ },
+ {
+  "id": "2125274028550373760",
+  "title": "Product launch video generated from prompts",
+  "title_zh": "基于提示词生成的发布会演示视频",
+  "category": "launch-film",
+  "author": {
+   "handle": "TimJayas",
+   "name": "Tim Jayas"
+  },
+  "postUrl": "https://x.com/TimJayas/status/2125274028550373760",
+  "createdAt": "2026-11-24T17:03:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125274028550373760/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125274028550373760/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125274028550373760"
+ },
+ {
+  "id": "2125277048528879634",
+  "title": "Motion design comparison across three different models",
+  "title_zh": "三款不同模型的动态设计效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "hsprafrique",
+   "name": "Sam Ivere"
+  },
+  "postUrl": "https://x.com/hsprafrique/status/2125277048528879634",
+  "createdAt": "2026-11-24T17:15:08.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125277048528879634/video.mp4",
+  "promptShared": true,
+  "promptText": "Motion designing just got better with the release of the new Gemini 4 Neon ✨\n\nSame prompt was given to the three different models & I think Opus 5.5 has been surpassed. Prompt in the CS ⬇️",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125277048528879634/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125277048528879634"
+ },
+ {
+  "id": "2125278509849571596",
+  "title": "Windmill Island in Blender model comparison",
+  "title_zh": "Blender 风车岛场景生成模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "MrTacticalX",
+   "name": "Mr Tactical"
+  },
+  "postUrl": "https://x.com/MrTacticalX/status/2125278509849571596",
+  "createdAt": "2026-11-24T17:20:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125278509849571596/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125278509849571596/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125278509849571596"
+ },
+ {
+  "id": "2125282916871938272",
+  "title": "3D apartment reconstruction from listing photos",
+  "title_zh": "基于房源照片的3D公寓重建",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0xMfox",
+   "name": "Fox"
+  },
+  "postUrl": "https://x.com/0xMfox/status/2125282916871938272",
+  "createdAt": "2026-11-24T17:38:27.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125282916871938272/video.mp4",
+  "promptShared": true,
+  "promptText": "I almost signed a $2400 a month lease off 14 photos. Gemini 4 Neon rebuilt the apartment in 3D first, and the bedroom barely fits a bed.\n\nGoogle DeepMind just showed Neon rebuilding Alan Turing's 1936 room from old archive photos. So I gave it my listing.\n\nIt used the doors and outlets as a ruler and measured every room:\n\nbedroom: 97 sq ft, not \"spacious\"\nbed to wall: 12 inches\n\"garden view\": the neighbor's brick wall\n\nI brought a tape measure to the viewing. It was off by 2 inches.\n\nThat's $29K a year I didn't sign.\n\nThe prompt is below. Run it before you send a deposit.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125282916871938272/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125282916871938272"
+ },
+ {
+  "id": "2125304389539975350",
+  "title": "Attack on Titan fight scene in sketch style",
+  "title_zh": "进击的巨人素描风战斗场景动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "WinterArc2125",
+   "name": "Winter"
+  },
+  "postUrl": "https://x.com/WinterArc2125/status/2125304389539975350",
+  "createdAt": "2026-11-24T19:03:47.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125304389539975350/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125304389539975350/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125304389539975350"
+ },
+ {
+  "id": "2125313162815889411",
+  "title": "Large scale arctic coast scene with radio dishes",
+  "title_zh": "带有射电天线的北极海岸3D巨型场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "apekshik",
+   "name": "apek"
+  },
+  "postUrl": "https://x.com/apekshik/status/2125313162815889411",
+  "createdAt": "2026-11-24T19:38:39.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125313162815889411/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125313162815889411/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125313162815889411"
+ },
+ {
+  "id": "2125314230681481651",
+  "title": "Directing realistic videos using code-based 3D animations",
+  "title_zh": "通过代码生成三维动画指导真实感视频",
+  "category": "3d-scene",
+  "author": {
+   "handle": "omidaziz",
+   "name": "omid"
+  },
+  "postUrl": "https://x.com/omidaziz/status/2125314230681481651",
+  "createdAt": "2026-11-24T19:42:53.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125314230681481651/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125314230681481651/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125314230681481651"
+ },
+ {
+  "id": "2125326948385894827",
+  "title": "Automated trading desk terminal demo",
+  "title_zh": "全自动交易终端与多智能体演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "Dipper_pol",
+   "name": "0xDipper"
+  },
+  "postUrl": "https://x.com/Dipper_pol/status/2125326948385894827",
+  "createdAt": "2026-11-24T20:33:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125326948385894827/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125326948385894827/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125326948385894827"
  }
 ]
