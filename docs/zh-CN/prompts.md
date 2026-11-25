@@ -2,16 +2,16 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 15 条 Gemini 4 Neon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Neon 一键 **复刻**。第一次写 Gemini 4 Neon 提示词？先看 [提示词写法](prompt-guide.md)。
+共 24 条 Gemini 4 Neon 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Neon 一键 **复刻**。第一次写 Gemini 4 Neon 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (4)
-- [动效](#motion-graphics) (1)
-- [游戏](#game) (1)
-- [产品界面](#ui-demo) (2)
+- [动效](#motion-graphics) (6)
+- [游戏](#game) (2)
+- [产品界面](#ui-demo) (3)
 - [讲解](#explainer) (1)
-- [发布片](#launch-film) (1)
+- [发布片](#launch-film) (3)
 - [测试对比](#comparison) (5)
 
 <a id="3d-scene"></a>
@@ -88,6 +88,83 @@ Is this Gemini 4 Neon ?
 Prompt: Make a pelican SVG
 ```
 
+### 纯代码生成的动态视觉作品集
+
+[@IshanJX](https://x.com/IshanJX/status/2123256843313270910) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123256843313270910/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123256843313270910?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon (Extra Effort)
+
+"Build a 15s 60FPS motion graphics showreel in one pure code file (HTML/CSS/JS + WebGL/Canvas). Zero external libraries or assets. Go all out with 3D camera transitions, kinetic typography, procedural shaders, physics particles, and beat-synced SFX."
+```
+
+### 展示视觉动效表达力的动态图形短片
+
+[@walter201230pro](https://x.com/walter201230pro/status/2123367292042203600) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2123367292042203600/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123367292042203600?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+谷歌疯了，发模型的速度快的惊人。
+
+一度怀疑这发布的是大模型吗？发布大模型的节奏是这样的？  
+
+总体体验下来，neno 很不错，速度快，不像 carbon 那么龟速，干活质量也可以，达到了综合平衡，主要还有就是量足，感觉怎么用都用不完。推荐。  
+
+下面这个视频也是 neno 一键出的，也把提示词给到大家，后面新模型出来了，想看这个模型的视频能力怎么样，直接可以用这句提示词测试。  
+
+提示词：请从零创作并导出一部约 20 秒的 16:9（1920×1080，60fps）Motion Graphics 概念短片，主题围绕你作为「Gemini 4  Neon」的视觉与动效表达力，具体创意、分镜和音乐编排由你自主导演。
+```
+
+### 街头风动漫角色的动态图形预告片
+
+[@learnwithcheer](https://x.com/learnwithcheer/status/2123868990720410043) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123868990720410043/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123868990720410043?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Motion designers, bookmark this before a client hits you with “tiny budget, need it yesterday” lol. Gemini 4 Neon prompt is a lifesaver.
+
+Prompt:
+1️⃣Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 24fps. AO is a cool, composed anime streetwear girl with a chin-length vivid blue bob with messy bangs, sharp ice-blue eyes, a light-blue knit beanie, an oversized white zip-up hooded windbreaker with blue drawstrings and a blue utility pocket on the left sleeve, a white crop top, light-blue drawstring shorts with a small barcode tag, and chunky white-and-blue platform sneakers. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her. This film is 80% bold graphic design in motion and 20% character action: giant kinetic typography, hard-edged shapes, split-screens, flat color fields, barcode strips, UI ticks, halftone, speed lines and shutter flashes. Palette: ice blue, cobalt, white, silver-grey, black. Style: premium AAA motion-graphics title sequence x streetwear campaign film. Every graphic element moves fast and snaps hard on the beat.
+
+2️⃣ CUT 01 | 0.00-1.00s - Pure graphics: a massive cobalt circle slams onto a white field, two black bars wipe across, tiny UI ticks and a barcode strip flicker; the letters A and O punch in one after another with heavy impact shake. CUT 02 | 1.00-2.00s - The O becomes a porthole: extreme close-up of her ice-blue eye inside it, glancing up; RGB split flash, then the circle shatters into shards of flat color. CUT 03 | 2.00-3.10s - Black frame with an enormous white AO; she sprints in from frame left and power-slides across the baseline of the typography, speed lines and ice-blue streaks trailing, shards of the letters kicked up like sparks. Whip-pan out. CUT 04 | 3.10-4.00s - Split-screen triptych of flat cobalt/white/ice-blue panels; in each panel her silhouette performs a different move in stroboscopic freeze: takeoff, tuck, landing. Huge vertical text FULL SPEED scrolls behind the panels. CUT 05 | 4.00-5.10s - She leaps through a giant rotating ring of typography reading NO BRAKES NO LIMITS; camera tracks her mid-air spin in slow motion as the letters scatter, then snap-zoom on her confident face. CUT 06 | 5.10-6.00s - Hard cut: white editorial card, huge black JUMP with a cobalt slash; she vaults over the word itself, palm planted on the J, legs whipping across frame; the word compresses like a spring under her hand and rebounds.
+
+Start there if you’re looking for motion refs 👇
+https://github.com/cheercheung/awesome-gemini-4-neon-use-cases
+```
+
+### 定格动画风毛线海盗大战毛毡巨怪
+
+[@Dav338876](https://x.com/Dav338876/status/2125537542368039245) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125537542368039245/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125537542368039245?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+🔥Gemini 4 Neon 超火《章鱼 Vs 海盗》 小动画
+
+代码制作耗时：21 分 48 秒
+视频+BGM耗时：3 分 50 秒
+消耗额度：Gemini Pro 5 小时 15%
+预估费用：$0.21 – $0.35
+
+这个效果没想到意外的好啊！！🥰  提示词：👇
+A stop-motion knitted pirate captain sails a tiny patchwork ship across a sea made of layered blue fabric while a gigantic felt kraken wraps its tentacles around the mast, she swings from yarn ropes, cuts stitched tentacles with a tiny metal sabre and commands a crew of mismatched cloth sailors while the ship is pulled toward a whirlpool made from spinning fabric rings; tactile handcrafted stop motion, visible stitching, wool fibers, cloth waves, practical miniature wind, cotton foam and hand-painted wooden props, warm lantern light contrasted with stormy navy blue, playful swashbuckling energy, ending with the captain cutting the kraken’s central knot and the entire monster unraveling into hundreds of colorful threads that become a giant sail carrying the ship safely out of the whirlpool.
+```
+
+### 单个光点演化为视觉宇宙的动态影像
+
+[@ediz_mercan](https://x.com/ediz_mercan/status/2125602472022393242) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125602472022393242/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125602472022393242?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+I finally got the chance to try Gemini 4 Neon.
+
+I gave it a single prompt: create a cinematic motion graphics film using HyperFrames, turning a single dot into an entire visual universe.
+
+20 seconds. 60 FPS.
+
+No Blender.
+No After Effects.
+No AI video generation.
+No human edits.
+Just code.
+Has Gemini finally caught up with Claude, or has it already surpassed it? 👀
+```
+
 <a id="game"></a>
 
 ## 游戏
@@ -100,6 +177,24 @@ Prompt: Make a pelican SVG
 Shader-rendered game in a 100KB HTML file, playable in the browser. Made with Gemini 4 Neon using @loktar00's prompt.
 
 https://kevintngo.github.io/dungeon-game/
+```
+
+### 包含Boss战的3D动作游戏
+
+[@defileo](https://x.com/defileo/status/2125680336944402750) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125680336944402750/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125680336944402750?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Game studios are really f*cked...
+
+Gemini 4 Neon built a full 3D action game from ONE prompt, boss fight, magic wolf companion, and quests, no code written.
+
+spells, fire blasts, a multi-phase boss, a sky shifting pink to purple to blue as you clear the map, plus a void portal mission that traps you with a lightning wall.
+
+games like this used to take a team, a budget, and months. now they can cost a few dollars in api credits.
+
+when a game costs less than a coffee, studios will ship weekly, and player prices will fall.
+
+(Psst... leaving prompt below)
 ```
 
 <a id="ui-demo"></a>
@@ -135,6 +230,36 @@ What the skill focuses on:
 Prompt: "Create an illustrated long-form field web essay on alpine wildflowers of the Dolomites with elevation band notes."
 ```
 
+### 多智能体自动解决 GitHub 问题的开发工作流
+
+[@0xRafy](https://x.com/0xRafy/status/2125643669021593735) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125643669021593735/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125643669021593735?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+I plugged Gemini 4 Neon, Opus 5.5, Fable 5.2 into my GrokBot with T3 Code
+
+now every GitHub issue goes like this:
+
+→ GrokBot wakes up and opens a T3 thread
+→ Fable 5.2 plans, max 8 steps
+→ Opus 5.5 builds + tests in a worktree
+→ Gemini 4 Neon gives a second opinion
+→ I get a PR. I merge
+
+how to set up yours:
+
+1. T3 Code → Providers → Claude Code + Antigravity
+
+2. ⌘K → Use T3 Code in another app → Grok Bot
+
+3. paste the message to your Eng Lead bot → approve
+
+4. open an issue. watch it work
+
+your machine, your subscriptions
+
+save now, then read the full prompt + setup in the article below
+```
+
 <a id="explainer"></a>
 
 ## 讲解
@@ -168,6 +293,29 @@ I set it to Xhigh and asked for a video about Jensen huang’s comeback. That wa
 这个效果你觉得如何？
 
 提示词在评论区
+```
+
+### 介绍 Gemini 4 Neon 的动态设计宣传片
+
+[@atomtanstudio](https://x.com/atomtanstudio/status/2123291668875235452) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123291668875235452/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123291668875235452?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon created this using this prompt which was a variation of another that I've seen on X previously.
+
+Using only code create a dynamic motion graphics video introducing Gemini 4 Neon to the world. This video should show what an incredible motion designer you are, like it's your showreel for a resume. Go all out. No external assets.
+```
+
+### 开源项目的动态发布视频
+
+[@hqmank](https://x.com/hqmank/status/2123745410405831123) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123745410405831123/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123745410405831123?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+ok, Gemini 4 Neon is unreal at making videos.
+
+Threw it at my open-source project, jev-browser-skill. The motion, the pacing, the transitions all landed on the first try. It even picked a soundtrack that fits.
+
+The prompt:
+"Make a dynamic 20-second motion graphics launch video for my open-source project jev-browser-skill ('Give a site. Write a goal. Jev clicks.'), like it's the hero video on its GitHub README. Go all out."
 ```
 
 <a id="comparison"></a>
