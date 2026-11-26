@@ -2,17 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-26 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
+33 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (6)
+- [3D scenes](#3d-scene) (7)
 - [Motion graphics](#motion-graphics) (6)
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (3)
-- [Explainers](#explainer) (1)
+- [Explainers](#explainer) (2)
 - [Launch films](#launch-film) (3)
-- [Tests & comparisons](#comparison) (5)
+- [Tests & comparisons](#comparison) (10)
 
 <a id="3d-scene"></a>
 
@@ -161,6 +161,22 @@ Prompt 👇
 
 【节奏曲线】
 0–3秒：凝固与悬念，屏住呼吸；3–9秒：瞬间爆发，节奏最快的连续交锋；9–15秒：追逐与上升，速度感最强；15–2…
+```
+
+### Interactive 3D architectural scene in browser
+
+[@0xLupenn](https://x.com/0xLupenn/status/2126005657140641960) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126005657140641960/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126005657140641960?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Autodesk charges $10,000 a year for a license and a team of 5 spends weeks rendering a single scene. Google's Gemini 4 Neon just replaced all of it with one prompt
+
+I gave it one image and said "build it in 3D" - it came back with a full interactive scene running in the browser, complete with wind physics, a day-to-night slider, X-ray interior, wireframe, exploded view across 7 layers and architectural elevations with exact dimensions in meters
+
+64 fireflies moving in real time, a waterfall with a 9-meter drop, lanterns that light up on click, sakura in full bloom and shoji screens that slide open. It even added wind chime audio and a live telemetry panel showing altitude, wind speed, time of day and bedrock type - things nobody asked for
+
+Everything orbits on mouse, switches between 6 camera angles and runs in the browser with zero lines of code
+
+45 seconds. Watch this video today. Autodesk, Blender, Unity - the entire 3D visualization industry just got a warning
 ```
 
 <a id="motion-graphics"></a>
@@ -364,6 +380,50 @@ I set it to Xhigh and asked for a video about Jensen huang’s comeback. That wa
 30 mins later, I had this clip. It used just 3% of my 5 hr limit.
 ```
 
+### Multi-Agent Workflow with Grok and Gemini Neon
+
+[@scryxnda](https://x.com/scryxnda/status/2125980828572234161) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125980828572234161/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125980828572234161?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+F*CK YES. I PUT GOOGLE'S GEMINI 4 NEON UNDER MY GROK BOT AS THE PLANNER AND IT'S F*CKING WILD HOW CLEAN THE SPLIT IS
+
+stop running one bot.
+
+one boss. one planner. a swarm of workers.
+and nothing counts as done without proof.
+
+most people dump every task into a single chat and pray. that's why their agent forgets step 3, burns tokens and swears it finished something it never did
+
+this fixes all three:
+
+TIER 1 → GROK BOT IS THE BOSS
+paste the prompt from the video into your main grok bot. it becomes your chief of staff. one-step jobs it does itself. anything with steps goes down a tier
+
+TIER 2 → NEON THINKS ONCE
+neon writes one plan.md with numbered steps. it costs $3 in / $15 out per 1M tokens, so it plans once and every worker reuses the same plan. you never pay for the thinking twice
+
+TIER 3 → HYDROGEN SWARMS
+one worker per step. independent steps run in parallel. a step is done only with proof: test output, a diff or a link. no proof, no done. failed step goes back once with the log, then it asks you
+
+YOUR KEY STAYS YOURS
+the gemini key goes in through the vault card. it never shows up in chat. grok bot calls neon from its own computer
+
+YOU STAY IN CHARGE
+money, posts, merges and deletes still wait for your ok. everything else just runs
+
+ONE DIGEST A DAY
+what ran on each tier, what it cost, what needs you. that's the only thing you read
+
+lauren tan pairs grok bot with cursor for code. 
+this swaps neon into that seat and puts a worker swarm underneath
+
+the full prompt is in the video. copy it, fill in the {{braces}}, done
+
+part 8 of lauren's bots
+
+follow @scryxnda and bookmark this. part 9 drops next. don't miss the alpha
+```
+
 <a id="launch-film"></a>
 
 ## Launch films
@@ -466,6 +526,44 @@ Gemini 4 Neon’s pine trees look more realistic, while Gemini 4 Argon’s snow 
 Congrats to the @GoogleDeepMind team on the launch!
 ```
 
+### Floating deep sea aquarium model comparison
+
+[@FiniYang](https://x.com/FiniYang/status/2125132455032316136) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132455032316136/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125132455032316136?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+🔥 兄弟们帮我评评，这局我真选不出来了 👀
+
+手搓一座「悬浮深海生态缸」
+
+⬆️ GPT-6.2 Astra（37 分 28 秒）
+博物馆级克制设计：水下那头座头鲸的吻部结节、喉褶和胸鳍写实得像手雕出来的，四层剖面直接把玻璃缸切成了四个悬浮水匣，左边还配了物种图鉴卡
+
+⬇️ Gemini 4 Neon（33 分 38 秒）
+全屏光学氛围直接拉满：波浪弯月水线、丁达尔光柱、铺满沙床的焦散网纹和熔岩热液喷口极通透，第 12 秒声呐波扫过海底还会亮起一圈圈等高线光环
+
+前面几局还能一眼看出谁占上风，这局是真难分伯仲了
+
+已发布到我的测评馆，直接可玩，含提示词，链接放下面了 ⬇️
+#GPT62Astra #Gemini4Neon #Threejs #WebGL #VibeCoding
+```
+
+### Volcanic island eruption simulation comparison
+
+[@BreezeOg1](https://x.com/BreezeOg1/status/2125132741427507214) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132741427507214/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125132741427507214?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+GEMINI 4 NEON VS OPUS 5.5
+
+Gave both the same prompt: Render a 3-second, 1080x1920, 30 fps three.js + Remotion video of a dusk volcanic island that rumbles, then erupts with a lava fountain, glowing bombs, lava rivers and a rising ash plume, ending on a soft hold, saved as out/volcano.mp4.
+
+• opus 5.5: 19mins, 1.4m tokens, ~$5.60
+• gemini 4 neon: 31 mins, 1.5m tokens, ~$6.1
+
+This is my first test on neon and contrary to what's out there, sure enough neon is an excellent model in compatible to gpt-6.2 astra but it is no way the same with opus 5.5.
+
+Nevertheless, this is a very excellent upgrade from Google.
+```
+
 ### Playable 3D police chase game comparison
 
 [@fekdaoui](https://x.com/fekdaoui/status/2125247620667105761) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125247620667105761/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125247620667105761?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
@@ -486,4 +584,64 @@ Opus took 39m 29s (2,104 lines) and renamed it "Neon Coast" to dodge copyright �
 Motion designing just got better with the release of the new Gemini 4 Neon ✨
 
 Same prompt was given to the three different models & I think Opus 5.5 has been surpassed. Prompt in the CS ⬇️
+```
+
+### Gemini 4 Neon vs Opus 5.5 Seaplane Scene
+
+[@0xchromium](https://x.com/0xchromium/status/2126032096959627757) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126032096959627757?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+GEMINI 4 NEON VS OPUS 5.5
+
+Gemini 4 Neon is the middle tier model Google dropped last week, Opus 5.5 is the one most people still pay up for when the result matters
+
+same prompt for both, a red seaplane coming in over an alpine lake with a waterfall in the back, and here's how it went:
+
+> Neon finished in 1 hour 31 minutes for $11.84
+> Opus needed 2 hours 45 minutes and $31.85
+
+what stands out here:
+
+> Neon came in almost 3x cheaper on the exact same task
+> it also wrapped up more than an hour earlier
+> Neon brings the plane right up close, Opus keeps it out on the water
+> Opus goes for the wide shot with mountain reflections across the lake
+> and Neon isn't even Google's top model, Carbon still sits above it
+
+is the Opus shot worth the extra $20 or did Neon take this one
+```
+
+### Snow day bedroom scene comparison
+
+[@0xOrionVega](https://x.com/0xOrionVega/status/2126033985226805250) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126033985226805250/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126033985226805250?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Opus 5.6 is finally a f*cking real candidate for Gemini 4 Neon. Nothing from Claude came close until now.
+
+Same prompt for both: my bedroom on a 2006 snow day.
+
+And they BOTH circled the date on the calendar. Gemini wrote "NO SCHOOL!!" under December 14. Opus wrote "snow day!" under January 12.
+
+Both put the cat to sleep on the bed. Both put a platformer on the CRT. I got actual chills.
+
+Then they split:
+> Gemini spelled SNOW DAY in letters on the wall, put a frog on the TV and set the flip phone to 9:41
+> Opus hung wet mittens on the radiator and left sticky notes on the desk: "call Miko!", "return DVDs"
+
+Top or bottom, which room was yours?
+```
+
+### One button ski game code comparison
+
+[@qspro_ai](https://x.com/qspro_ai/status/2126036406372082082) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2126036406372082082/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126036406372082082?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+We gave 4 models the same prompt: build a one-button ski game.
+
+GPT-6.2 Sol: done in 2:51, $0.72
+Gemini 4 Neon: 8:04, $1.09
+DeepSeek V4.1 Flash: 2:41, $0.015
+Claude Opus 5.5: still polishing when we cut it off at 25 min
+
+All 4 games are playable. Which one wins?
 ```

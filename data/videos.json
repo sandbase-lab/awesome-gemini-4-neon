@@ -669,7 +669,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123246994496077998/video.mp4",
   "promptShared": true,
   "promptText": "你敢信？我看到了小团队的春天！\n\n让Gemini 4 neon 给 Gemini 4 neon写一个15秒的宣传片\n自己写提示词，自己写视频，单页HTML，全程无介入。。。\n\n这个效果你觉得如何？\n\n提示词在评论区",
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2123246994496077998/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2123246994496077998"
  },
@@ -1377,7 +1377,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124558621782495548/video.mp4",
   "promptShared": true,
   "promptText": "Probé Gemini 4 Neon con Antigravity CLI usando la suscripción de Google AI Pro que ya pago.\n\nLe pedí esto:\n\n\"armame una landing de prueba simple html y css con animaciones y microinteracciones para entender todas las capacidades de tu modelo, elegi el tema que mas quieras sorprendeme\"",
-  "featured": 6,
+  "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2124558621782495548/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124558621782495548"
  },
@@ -1595,7 +1595,7 @@
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125001629850345678/video.mp4",
   "promptShared": true,
   "promptText": "Shader-rendered game in a 100KB HTML file, playable in the browser. Made with Gemini 4 Neon using @loktar00's prompt.\n\nhttps://kevintngo.github.io/dungeon-game/",
-  "featured": 5,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125001629850345678/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125001629850345678"
  },
@@ -1634,6 +1634,44 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125128391661871492/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125128391661871492"
+ },
+ {
+  "id": "2125132455032316136",
+  "title": "Floating deep sea aquarium model comparison",
+  "title_zh": "悬浮深海生态缸模型生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "FiniYang",
+   "name": "Fini.Yang"
+  },
+  "postUrl": "https://x.com/FiniYang/status/2125132455032316136",
+  "createdAt": "2026-11-24T07:40:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132455032316136/video.mp4",
+  "promptShared": true,
+  "promptText": "🔥 兄弟们帮我评评，这局我真选不出来了 👀\n\n手搓一座「悬浮深海生态缸」\n\n⬆️ GPT-6.2 Astra（37 分 28 秒）\n博物馆级克制设计：水下那头座头鲸的吻部结节、喉褶和胸鳍写实得像手雕出来的，四层剖面直接把玻璃缸切成了四个悬浮水匣，左边还配了物种图鉴卡\n\n⬇️ Gemini 4 Neon（33 分 38 秒）\n全屏光学氛围直接拉满：波浪弯月水线、丁达尔光柱、铺满沙床的焦散网纹和熔岩热液喷口极通透，第 12 秒声呐波扫过海底还会亮起一圈圈等高线光环\n\n前面几局还能一眼看出谁占上风，这局是真难分伯仲了\n\n已发布到我的测评馆，直接可玩，含提示词，链接放下面了 ⬇️\n#GPT62Astra #Gemini4Neon #Threejs #WebGL #VibeCoding",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132455032316136/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125132455032316136"
+ },
+ {
+  "id": "2125132741427507214",
+  "title": "Volcanic island eruption simulation comparison",
+  "title_zh": "火山岛爆发模拟代码对比",
+  "category": "comparison",
+  "author": {
+   "handle": "BreezeOg1",
+   "name": "BreezeOg"
+  },
+  "postUrl": "https://x.com/BreezeOg1/status/2125132741427507214",
+  "createdAt": "2026-11-24T07:41:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132741427507214/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 NEON VS OPUS 5.5\n\nGave both the same prompt: Render a 3-second, 1080x1920, 30 fps three.js + Remotion video of a dusk volcanic island that rumbles, then erupts with a lava fountain, glowing bombs, lava rivers and a rising ash plume, ending on a soft hold, saved as out/volcano.mp4.\n\n• opus 5.5: 19mins, 1.4m tokens, ~$5.60\n• gemini 4 neon: 31 mins, 1.5m tokens, ~$6.1\n\nThis is my first test on neon and contrary to what's out there, sure enough neon is an excellent model in compatible to gpt-6.2 astra but it is no way the same with opus 5.5.\n\nNevertheless, this is a very excellent upgrade from Google.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125132741427507214/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125132741427507214"
  },
  {
   "id": "2125157673448677586",
@@ -2106,6 +2144,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125454282048798767/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125454282048798767"
+ },
+ {
+  "id": "2125469936185385451",
+  "title": "Gemini 4 Neon Generation Speed Comparison",
+  "title_zh": "Gemini 4 Neon 生成速度对比",
+  "category": "comparison",
+  "author": {
+   "handle": "hsprafrique",
+   "name": "Sam Ivere"
+  },
+  "postUrl": "https://x.com/hsprafrique/status/2125469936185385451",
+  "createdAt": "2026-11-25T06:01:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125469936185385451/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125469936185385451/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125469936185385451"
  },
  {
   "id": "2125513501909082487",
@@ -2719,7 +2775,7 @@
   "durationMs": null,
   "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125706215699460335/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125706215699460335/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125706215699460335"
  },
@@ -2886,5 +2942,352 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/fable-5-5/2125847678152290485/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125847678152290485"
+ },
+ {
+  "id": "2125867403376525541",
+  "title": "Rain soaked cyberpunk alley 3D scene",
+  "title_zh": "雨夜赛博朋克小巷3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Motion_Viz",
+   "name": "MotionViz"
+  },
+  "postUrl": "https://x.com/Motion_Viz/status/2125867403376525541",
+  "createdAt": "2026-11-26T08:21:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125867403376525541/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125867403376525541/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125867403376525541"
+ },
+ {
+  "id": "2125895935184240784",
+  "title": "A monochrome exploration game beneath a black hole",
+  "title_zh": "黑洞之下的单色第三人称探索游戏",
+  "category": "game",
+  "author": {
+   "handle": "sonuv_dev",
+   "name": "sou | Ai & Tech"
+  },
+  "postUrl": "https://x.com/sonuv_dev/status/2125895935184240784",
+  "createdAt": "2026-11-26T10:14:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125895935184240784/video.mp4",
+  "promptShared": false,
+  "featured": 6,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125895935184240784/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125895935184240784"
+ },
+ {
+  "id": "2125932587910918319",
+  "title": "Showcase of 11 Open Source 2D Animation Libraries",
+  "title_zh": "11个开源2D动效库展示视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "mingzi206",
+   "name": "明子206"
+  },
+  "postUrl": "https://x.com/mingzi206/status/2125932587910918319",
+  "createdAt": "2026-11-26T12:40:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125932587910918319/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125932587910918319/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125932587910918319"
+ },
+ {
+  "id": "2125938305430688004",
+  "title": "A frog delivery game in Three.js",
+  "title_zh": "Three.js与WebGPU制作的青蛙运送游戏",
+  "category": "game",
+  "author": {
+   "handle": "chirovisuals",
+   "name": "Chiro Visuals"
+  },
+  "postUrl": "https://x.com/chirovisuals/status/2125938305430688004",
+  "createdAt": "2026-11-26T13:02:44.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125938305430688004/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125938305430688004/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125938305430688004"
+ },
+ {
+  "id": "2125956940958179563",
+  "title": "Cost and effort comparison on Gemini 4 Neon",
+  "title_zh": "Gemini 4 Neon 成本与努力程度对比评测",
+  "category": "comparison",
+  "author": {
+   "handle": "0xNeuroBlue",
+   "name": "Neuro"
+  },
+  "postUrl": "https://x.com/0xNeuroBlue/status/2125956940958179563",
+  "createdAt": "2026-11-26T14:16:47.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125956940958179563/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125956940958179563/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125956940958179563"
+ },
+ {
+  "id": "2125962636122784238",
+  "title": "Single HTML file animation from Gemini 4 Neon",
+  "title_zh": "Gemini 4 Neon 生成的单 HTML 文件动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2125962636122784238",
+  "createdAt": "2026-11-26T14:39:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125962636122784238/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125962636122784238/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125962636122784238"
+ },
+ {
+  "id": "2125975103490134174",
+  "title": "Side scrolling 2.5D game demo",
+  "title_zh": "2.5D横版卷轴游戏演示",
+  "category": "game",
+  "author": {
+   "handle": "chongdashu",
+   "name": "Chong-U"
+  },
+  "postUrl": "https://x.com/chongdashu/status/2125975103490134174",
+  "createdAt": "2026-11-26T15:28:58.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125975103490134174/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125975103490134174/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125975103490134174"
+ },
+ {
+  "id": "2125979078222389367",
+  "title": "Thanksgiving scene made in ThreeJS with Gemini",
+  "title_zh": "使用 Gemini 和 ThreeJS 制作的感恩节场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "ivanleomk",
+   "name": "Ivan Leo"
+  },
+  "postUrl": "https://x.com/ivanleomk/status/2125979078222389367",
+  "createdAt": "2026-11-26T15:44:45.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125979078222389367/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125979078222389367/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125979078222389367"
+ },
+ {
+  "id": "2125980828572234161",
+  "title": "Multi-Agent Workflow with Grok and Gemini Neon",
+  "title_zh": "Grok与Gemini Neon的多智能体工作流",
+  "category": "explainer",
+  "author": {
+   "handle": "scryxnda",
+   "name": "scryx"
+  },
+  "postUrl": "https://x.com/scryxnda/status/2125980828572234161",
+  "createdAt": "2026-11-26T15:51:43.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125980828572234161/video.mp4",
+  "promptShared": true,
+  "promptText": "F*CK YES. I PUT GOOGLE'S GEMINI 4 NEON UNDER MY GROK BOT AS THE PLANNER AND IT'S F*CKING WILD HOW CLEAN THE SPLIT IS\n\nstop running one bot.\n\none boss. one planner. a swarm of workers.\nand nothing counts as done without proof.\n\nmost people dump every task into a single chat and pray. that's why their agent forgets step 3, burns tokens and swears it finished something it never did\n\nthis fixes all three:\n\nTIER 1 → GROK BOT IS THE BOSS\npaste the prompt from the video into your main grok bot. it becomes your chief of staff. one-step jobs it does itself. anything with steps goes down a tier\n\nTIER 2 → NEON THINKS ONCE\nneon writes one plan.md with numbered steps. it costs $3 in / $15 out per 1M tokens, so it plans once and every worker reuses the same plan. you never pay for the thinking twice\n\nTIER 3 → HYDROGEN SWARMS\none worker per step. independent steps run in parallel. a step is done only with proof: test output, a diff or a link. no proof, no done. failed step goes back once with the log, then it asks you\n\nYOUR KEY STAYS YOURS\nthe gemini key goes in through the vault card. it never shows up in chat. grok bot calls neon from its own computer\n\nYOU STAY IN CHARGE\nmoney, posts, merges and deletes still wait for your ok. everything else just runs\n\nONE DIGEST A DAY\nwhat ran on each tier, what it cost, what needs you. that's the only thing you read\n\nlauren tan pairs grok bot with cursor for code. \nthis swaps neon into that seat and puts a worker swarm underneath\n\nthe full prompt is in the video. copy it, fill in the {{braces}}, done\n\npart 8 of lauren's bots\n\nfollow @scryxnda and bookmark this. part 9 drops next. don't miss the alpha",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125980828572234161/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125980828572234161"
+ },
+ {
+  "id": "2125982450778288331",
+  "title": "Beatboxing Mouths Generated in Pure HTML and Audio",
+  "title_zh": "纯HTML与合成音频生成的B-box嘴巴",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2125982450778288331",
+  "createdAt": "2026-11-26T15:58:09.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125982450778288331/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125982450778288331/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125982450778288331"
+ },
+ {
+  "id": "2125985880217395548",
+  "title": "Creative coding 3D hair render comparison",
+  "title_zh": "创意编程3D毛发渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "xiax0603",
+   "name": "xiax｜AI & Agents"
+  },
+  "postUrl": "https://x.com/xiax0603/status/2125985880217395548",
+  "createdAt": "2026-11-26T16:11:47.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125985880217395548/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125985880217395548/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125985880217395548"
+ },
+ {
+  "id": "2125992203634028965",
+  "title": "Motion Graphics Breakdown of a 3D Short Film",
+  "title_zh": "3D短片动态图形拆解展示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "HarshithLucky3",
+   "name": "Harshith"
+  },
+  "postUrl": "https://x.com/HarshithLucky3/status/2125992203634028965",
+  "createdAt": "2026-11-26T16:36:55.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125992203634028965/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125992203634028965/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125992203634028965"
+ },
+ {
+  "id": "2126005657140641960",
+  "title": "Interactive 3D architectural scene in browser",
+  "title_zh": "浏览器内运行的交互式3D建筑场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0xLupenn",
+   "name": "Lupen"
+  },
+  "postUrl": "https://x.com/0xLupenn/status/2126005657140641960",
+  "createdAt": "2026-11-26T17:30:22.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126005657140641960/video.mp4",
+  "promptShared": true,
+  "promptText": "Autodesk charges $10,000 a year for a license and a team of 5 spends weeks rendering a single scene. Google's Gemini 4 Neon just replaced all of it with one prompt\n\nI gave it one image and said \"build it in 3D\" - it came back with a full interactive scene running in the browser, complete with wind physics, a day-to-night slider, X-ray interior, wireframe, exploded view across 7 layers and architectural elevations with exact dimensions in meters\n\n64 fireflies moving in real time, a waterfall with a 9-meter drop, lanterns that light up on click, sakura in full bloom and shoji screens that slide open. It even added wind chime audio and a live telemetry panel showing altitude, wind speed, time of day and bedrock type - things nobody asked for\n\nEverything orbits on mouse, switches between 6 camera angles and runs in the browser with zero lines of code\n\n45 seconds. Watch this video today. Autodesk, Blender, Unity - the entire 3D visualization industry just got a warning",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126005657140641960/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126005657140641960"
+ },
+ {
+  "id": "2126005722055938388",
+  "title": "Playable Mont Blanc Ski Simulator in 3D Web",
+  "title_zh": "基于勃朗峰地形的可玩3D滑雪模拟器",
+  "category": "game",
+  "author": {
+   "handle": "sarahmarti82917",
+   "name": "Sarah Martinez"
+  },
+  "postUrl": "https://x.com/sarahmarti82917/status/2126005722055938388",
+  "createdAt": "2026-11-26T17:30:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126005722055938388/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126005722055938388/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126005722055938388"
+ },
+ {
+  "id": "2126010442388525272",
+  "title": "One-person hedge fund built on Gemini 4 Neon",
+  "title_zh": "基于 Gemini 4 Neon 构建的单人对冲基金系统",
+  "category": "explainer",
+  "author": {
+   "handle": "velesxbt",
+   "name": "Veles"
+  },
+  "postUrl": "https://x.com/velesxbt/status/2126010442388525272",
+  "createdAt": "2026-11-26T17:49:23.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126010442388525272/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126010442388525272/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126010442388525272"
+ },
+ {
+  "id": "2126018717389910323",
+  "title": "Anime ending recreation with generative models",
+  "title_zh": "生成式AI制作的动漫片尾动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Multi_Serio_Ai",
+   "name": "Serio_ai"
+  },
+  "postUrl": "https://x.com/Multi_Serio_Ai/status/2126018717389910323",
+  "createdAt": "2026-11-26T18:22:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126018717389910323/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126018717389910323/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126018717389910323"
+ },
+ {
+  "id": "2126032096959627757",
+  "title": "Gemini 4 Neon vs Opus 5.5 Seaplane Scene",
+  "title_zh": "Gemini 4 Neon 与 Opus 水上飞机场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xchromium",
+   "name": "Chrome"
+  },
+  "postUrl": "https://x.com/0xchromium/status/2126032096959627757",
+  "createdAt": "2026-11-26T19:15:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/video.mp4",
+  "promptShared": true,
+  "promptText": "GEMINI 4 NEON VS OPUS 5.5\n\nGemini 4 Neon is the middle tier model Google dropped last week, Opus 5.5 is the one most people still pay up for when the result matters\n\nsame prompt for both, a red seaplane coming in over an alpine lake with a waterfall in the back, and here's how it went:\n\n> Neon finished in 1 hour 31 minutes for $11.84\n> Opus needed 2 hours 45 minutes and $31.85\n\nwhat stands out here:\n\n> Neon came in almost 3x cheaper on the exact same task\n> it also wrapped up more than an hour earlier\n> Neon brings the plane right up close, Opus keeps it out on the water\n> Opus goes for the wide shot with mountain reflections across the lake\n> and Neon isn't even Google's top model, Carbon still sits above it\n\nis the Opus shot worth the extra $20 or did Neon take this one",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126032096959627757/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126032096959627757"
+ },
+ {
+  "id": "2126033985226805250",
+  "title": "Snow day bedroom scene comparison",
+  "title_zh": "雪天卧室怀旧场景模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xOrionVega",
+   "name": "Orion"
+  },
+  "postUrl": "https://x.com/0xOrionVega/status/2126033985226805250",
+  "createdAt": "2026-11-26T19:22:56.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126033985226805250/video.mp4",
+  "promptShared": true,
+  "promptText": "Opus 5.6 is finally a f*cking real candidate for Gemini 4 Neon. Nothing from Claude came close until now.\n\nSame prompt for both: my bedroom on a 2006 snow day.\n\nAnd they BOTH circled the date on the calendar. Gemini wrote \"NO SCHOOL!!\" under December 14. Opus wrote \"snow day!\" under January 12.\n\nBoth put the cat to sleep on the bed. Both put a platformer on the CRT. I got actual chills.\n\nThen they split:\n> Gemini spelled SNOW DAY in letters on the wall, put a frog on the TV and set the flip phone to 9:41\n> Opus hung wet mittens on the radiator and left sticky notes on the desk: \"call Miko!\", \"return DVDs\"\n\nTop or bottom, which room was yours?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126033985226805250/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126033985226805250"
+ },
+ {
+  "id": "2126036406372082082",
+  "title": "One button ski game code comparison",
+  "title_zh": "单键滑雪游戏开发多模型对比",
+  "category": "comparison",
+  "author": {
+   "handle": "qspro_ai",
+   "name": "QuickSilver Pro"
+  },
+  "postUrl": "https://x.com/qspro_ai/status/2126036406372082082",
+  "createdAt": "2026-11-26T19:32:33.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2126036406372082082/video.mp4",
+  "promptShared": true,
+  "promptText": "We gave 4 models the same prompt: build a one-button ski game.\n\nGPT-6.2 Sol: done in 2:51, $0.72\nGemini 4 Neon: 8:04, $1.09\nDeepSeek V4.1 Flash: 2:41, $0.015\nClaude Opus 5.5: still polishing when we cut it off at 25 min\n\nAll 4 games are playable. Which one wins?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2126036406372082082/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126036406372082082"
  }
 ]
