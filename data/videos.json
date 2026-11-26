@@ -1309,24 +1309,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124369511360909438"
  },
  {
-  "id": "2124484540836245649",
-  "title": "Procedural AK-47 assembly and firing test comparison",
-  "title_zh": "程序化 AK-47 组装与射击测试对比",
-  "category": "comparison",
-  "author": {
-   "handle": "vipinxtwt",
-   "name": "Vipin"
-  },
-  "postUrl": "https://x.com/vipinxtwt/status/2124484540836245649",
-  "createdAt": "2026-11-22T12:46:00.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124484540836245649/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2124484540836245649/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2124484540836245649"
- },
- {
   "id": "2124508873897726028",
   "title": "Interactive 3D model of the human eye",
   "title_zh": "探索视觉机制的人眼交互式 3D 模型",
@@ -1636,6 +1618,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125079461187952752"
  },
  {
+  "id": "2125128391661871492",
+  "title": "Procedural animation of feather plumes using code",
+  "title_zh": "纯代码生成的羽毛程序化动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "SahilPanhotra",
+   "name": "Sahil Panhotra | Indie Builder"
+  },
+  "postUrl": "https://x.com/SahilPanhotra/status/2125128391661871492",
+  "createdAt": "2026-11-24T07:24:26.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125128391661871492/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125128391661871492/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125128391661871492"
+ },
+ {
   "id": "2125157673448677586",
   "title": "A futuristic six-wheel armored monster truck with physics",
   "title_zh": "具备物理系统的未来六轮装甲卡车",
@@ -1652,6 +1652,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125157673448677586/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125157673448677586"
+ },
+ {
+  "id": "2125174505501032537",
+  "title": "Interactive pixel art experience of a Japanese engawa",
+  "title_zh": "交互式日式缘侧像素艺术体验",
+  "category": "game",
+  "author": {
+   "handle": "sonuv_dev",
+   "name": "sou | Ai & Tech"
+  },
+  "postUrl": "https://x.com/sonuv_dev/status/2125174505501032537",
+  "createdAt": "2026-11-24T10:27:40.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125174505501032537/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125174505501032537/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125174505501032537"
  },
  {
   "id": "2125174944057507944",
@@ -2018,6 +2036,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125326948385894827"
  },
  {
+  "id": "2125375321906020482",
+  "title": "Procedural liquid chrome ferrofluid 3D scene",
+  "title_zh": "程序化生成的液态金属铁磁流体3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "OLeisgen",
+   "name": "Oliver Leisgen"
+  },
+  "postUrl": "https://x.com/OLeisgen/status/2125375321906020482",
+  "createdAt": "2026-11-24T23:45:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125375321906020482/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125375321906020482/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125375321906020482"
+ },
+ {
   "id": "2125433795553767714",
   "title": "A four-leaf clover 3D animation model comparison",
   "title_zh": "四叶草3D动画的多模型生成对比",
@@ -2181,6 +2217,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125552091154264065"
  },
  {
+  "id": "2125568138137817109",
+  "title": "Four models reconstructing Netflix in year 2000",
+  "title_zh": "四个模型重现2000年的Netflix界面",
+  "category": "comparison",
+  "author": {
+   "handle": "AIMind_Ai",
+   "name": "AiMind"
+  },
+  "postUrl": "https://x.com/AIMind_Ai/status/2125568138137817109",
+  "createdAt": "2026-11-25T12:31:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125568138137817109/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-astra/2125568138137817109/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125568138137817109"
+ },
+ {
   "id": "2125578035374280998",
   "title": "Open source motion graphics stack demonstration",
   "title_zh": "开源动态图形技术栈演示",
@@ -2197,6 +2251,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125578035374280998/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125578035374280998"
+ },
+ {
+  "id": "2125597881730318812",
+  "title": "An AI reflecting on its own nature",
+  "title_zh": "人工智能对其自身存在的思考",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "vipinxtwt",
+   "name": "Vipin"
+  },
+  "postUrl": "https://x.com/vipinxtwt/status/2125597881730318812",
+  "createdAt": "2026-11-25T14:30:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125597881730318812/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125597881730318812/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125597881730318812"
  },
  {
   "id": "2125602472022393242",
@@ -2216,6 +2288,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125602472022393242/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125602472022393242"
+ },
+ {
+  "id": "2125605916120691018",
+  "title": "Blackout Protocol browser game clone",
+  "title_zh": "浏览器版Blackout Protocol游戏克隆",
+  "category": "game",
+  "author": {
+   "handle": "OLeisgen",
+   "name": "Oliver Leisgen"
+  },
+  "postUrl": "https://x.com/OLeisgen/status/2125605916120691018",
+  "createdAt": "2026-11-25T15:01:56.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125605916120691018/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125605916120691018/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125605916120691018"
  },
  {
   "id": "2125607712864264256",
@@ -2525,6 +2615,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125671539463078081"
  },
  {
+  "id": "2125673503047451107",
+  "title": "Procedural reconstruction of a school campus",
+  "title_zh": "程序化重建的学校校园场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "drashyakuruwa",
+   "name": "Drashya Kuruwa"
+  },
+  "postUrl": "https://x.com/drashyakuruwa/status/2125673503047451107",
+  "createdAt": "2026-11-25T19:30:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125673503047451107/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125673503047451107/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125673503047451107"
+ },
+ {
   "id": "2125680336944402750",
   "title": "A 3D action game with boss fight",
   "title_zh": "包含Boss战的3D动作游戏",
@@ -2578,5 +2686,205 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125697735114236200/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125697735114236200"
+ },
+ {
+  "id": "2125703839424917514",
+  "title": "Animation engine demonstrating historical perspective",
+  "title_zh": "演示历史视角的自定义动画引擎",
+  "category": "explainer",
+  "author": {
+   "handle": "SKaleworks",
+   "name": "Kale"
+  },
+  "postUrl": "https://x.com/SKaleworks/status/2125703839424917514",
+  "createdAt": "2026-11-25T21:31:03.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125703839424917514/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125703839424917514/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125703839424917514"
+ },
+ {
+  "id": "2125706215699460335",
+  "title": "A tower defense game playable in browser",
+  "title_zh": "一款可在浏览器中游玩的塔防游戏",
+  "category": "game",
+  "author": {
+   "handle": "kevin_t_ngo",
+   "name": "Kevin Ngo"
+  },
+  "postUrl": "https://x.com/kevin_t_ngo/status/2125706215699460335",
+  "createdAt": "2026-11-25T21:40:30.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125706215699460335/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125706215699460335/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125706215699460335"
+ },
+ {
+  "id": "2125724116829552788",
+  "title": "Prototyping an idea using Gemini and Three.js",
+  "title_zh": "使用Gemini和Three.js进行创意原型设计",
+  "category": "3d-scene",
+  "author": {
+   "handle": "noormtir",
+   "name": "Nawwara"
+  },
+  "postUrl": "https://x.com/noormtir/status/2125724116829552788",
+  "createdAt": "2026-11-25T22:51:38.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125724116829552788/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125724116829552788/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125724116829552788"
+ },
+ {
+  "id": "2125774501925556373",
+  "title": "An 80s arcade machine with physics simulation",
+  "title_zh": "带有物理模拟的80年代风格街机机关",
+  "category": "3d-scene",
+  "author": {
+   "handle": "lbang_2580",
+   "name": "青山"
+  },
+  "postUrl": "https://x.com/lbang_2580/status/2125774501925556373",
+  "createdAt": "2026-11-26T02:11:50.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125774501925556373/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Neon + Antigravity + Lyria 3.5 手搓的 80 年代街机机关。\n\n小球一路闯关点亮「Gemini 4 Neon」灯牌。\n\n物理模拟、电音配乐、TPU 和 1998→2026 彩蛋一步到位。\n\n完整复刻 Prompt 丢评论区了👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125774501925556373/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125774501925556373"
+ },
+ {
+  "id": "2125779072470986927",
+  "title": "Comparison of animated SVG films between models",
+  "title_zh": "不同模型间的SVG动画短片对比",
+  "category": "comparison",
+  "author": {
+   "handle": "JamesMalsawm",
+   "name": "James Malsawm"
+  },
+  "postUrl": "https://x.com/JamesMalsawm/status/2125779072470986927",
+  "createdAt": "2026-11-26T02:30:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779072470986927/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779072470986927/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125779072470986927"
+ },
+ {
+  "id": "2125779073183973853",
+  "title": "Three models generating a volcanic eruption",
+  "title_zh": "三个模型生成火山爆发场景的效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "rubenssoto_ai",
+   "name": "Rubens Soto | AI & SaaS"
+  },
+  "postUrl": "https://x.com/rubenssoto_ai/status/2125779073183973853",
+  "createdAt": "2026-11-26T02:30:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779073183973853/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2125779073183973853/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125779073183973853"
+ },
+ {
+  "id": "2125792726692266222",
+  "title": "Giant mecha aerial combat cinematic scene",
+  "title_zh": "巨型机甲空中对决的电影级片段",
+  "category": "3d-scene",
+  "author": {
+   "handle": "bozzxyz",
+   "name": "Bozzx."
+  },
+  "postUrl": "https://x.com/bozzxyz/status/2125792726692266222",
+  "createdAt": "2026-11-26T03:24:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125792726692266222/video.mp4",
+  "promptShared": true,
+  "promptText": "THE GOLD & BLACK MECCA\n\nDibuat di Wizstar dengan model Seedance 2.5 Text to Video, menggunakan prompt dari Gemini 4 Neon.\n\nCoba di sini: @WizstarAI\n\nSeedance 2.5 hanya seharga $2.50 melalui tautan eksklusif saya:\nhttp://wizstar.pxf.io/seedance\n\n#WizstarPartner #WizstarAI\n\nPrompt 👇\n\n【30秒 一镜到底 巨型机甲空中对决 · 好莱坞科幻大片】\n\n【总述】\n真实电影实拍质感的好莱坞科幻大片画面，16:9宽银幕，4K超高清，24帧，电影级动态模糊。整段30秒是一个连续不断、没有任何剪辑的长镜头（一镜到底），没有转场、没有叠化、没有跳切。一台虚拟航拍摄影机全程在高速运动：追逐、环绕、俯冲、螺旋上升、横移、甩镜、翻滚，碰撞的瞬间快速推近，需要展示巨大体量时又迅速拉远。从第一帧开始就是最高强度的空中对决，没有任何开场铺垫，没有安静的时刻。整体节奏极快、极密集、极其激烈，每一秒都有新的动作发生，但每一次出招、格挡和反击都清晰可辨，观众始终看得懂谁在攻击、谁在防守。开场0到3秒是一段“子弹时间”的光剑交锋，之后时间猛然恢复，进入超高速的连续对决，结尾金色机甲以闪电般的俯冲完成决定性的一击。\n\n【开场第一帧】\n视频的第一帧就是两把剑相撞的瞬间：画面中央是交叉的金色长光剑和黑色锯齿重剑，交点爆出一团凝固的白金色和深红色火花；左侧是金色机甲展开的金色翅膀，右侧是黑色机甲张开的刀片翅膀；背景是被夕阳染成金色的云海和远处城市的天际线，太阳正好在两把剑的后上方，形成一道水平光晕。没有任何空镜，没有任何铺垫，一开场观众就身处对决的最高潮。\n\n【角色一：金色机甲】\n一台约60米高的巨型人形机甲，相当于20层楼高，英勇、高贵、骑士风格。全身覆盖抛光的金色装甲，装甲边缘镶着银白色饰条，表面有精细的雕刻纹路和清晰的面板接缝，夕阳照在上面会反射出温暖耀眼的金光。头部是流线型头盔，额头有锋利的V字形头冠，面部是一条横向的白金色发光目镜，目光坚定。肩甲宽大厚重，像骑士的护肩，内部藏有可以打开的发射舱。胸口中央镶着一颗发光的白金色能量晶体，像一颗小太阳，能量充沛时会越来越亮。背后有两对巨大的分节机械翅膀，每片翼板由多层金色装甲叠成，翼缘发出白金色的能量光芒；翅膀可以展开成宽阔的光翼用于高速飞行，也可以收拢在身前组成一面发光的护盾，还可以把翼缘变成锋利的光刃进行劈砍。腰部、小腿和脚底都有推进器，喷出蓝白色的火焰。\n装备全部收在机体内部，从装甲中展开：右手握着一把发光的金色长光剑，剑身修长，剑刃流动着白金色的能量；手腕装甲可以翻开成能量发射口；肩部装甲打开后射出成群的金色能量光弹，拖着细长的白色光尾；胸口晶体可以射出一道粗大的白金色能量光束；翅膀边缘就是光刃。\n动作风格：迅捷、精准、优雅而有力量。全速移动时整台机甲化作一道金色闪电，身后留下明亮的金色光轨、一连串速度残影和噼啪作响的电火花，快得只剩一道光，每次加速都伴随一圈透明的音爆光环。\n飞行姿态：金色机甲飞行时身体前倾，双翼完全展开，翼尖拖出两道细长的金色光带，像一只金色的猎鹰；转向时整个身体侧倾，翅膀像飞机一样压坡，动作干净利落；悬停时翅膀缓慢开合，推进器向下喷出稳定的蓝白色火焰。\n\n【角色二：黑色机甲】\n一台同样约60米高的巨型人形机甲，棱角锋利、气势压迫、冷酷凶悍。全身覆盖哑光黑色装甲，装甲边缘像刀锋一样尖锐，层层叠叠，装甲缝隙中透出细细的深红色光线，像发热的熔岩纹路。头盔带有两只向后弯曲的尖角，面部只有一条细长的深红色发光目镜。肩甲是尖刺状的，尖刺之间藏着发射舱。胸口嵌着一颗深红色能量晶体，发出脉动般的红光。背后是一对巨大的锯齿状黑色机械翅膀，由一片片刀片状的黑色装甲层层组成，展开时像一排锋利的黑色刀刃，翼根的喷口发出深红色的光焰。脚底和背部推进器喷出暗红与蓝白交织的火焰。\n装备同样收在机体内部：双手握着一把巨大的黑色锯齿重剑，剑刃上有一排锯齿，刃口发出深红色的光；肩部发射舱射出拖着红色光尾的能量光弹；胸甲可以向两侧打开，射出一道深红色能量光束；前臂装甲可以翻开，展开一条由发光链节组成的能量光链鞭。\n动作风格：沉重、狂暴、压迫感强，每一剑都势大力沉。全速移动时留下深红色光轨和暗红残影。\n飞行姿态：黑色机甲飞行时像一头俯冲的猛禽，翅膀半收，身体压低，推进器喷出暗红色的火焰；它更喜欢正面硬冲和从高处砸下，转向时翅膀上的刀片状装甲会一片片张开再合拢，发出金属摩擦的声音。\n\n【两台机甲的共同细节】\n两台机甲都明显是机械结构，绝不是生物：清晰的装甲板、关节、液压杆、伺服电机、面板缝隙和铆接细节；散热口在剧烈运动后冒出白色热气；推进器持续喷射火焰，留下热浪扭曲；随着对决进行，装甲表面逐渐出现划痕、凹痕和灼烧的黑色痕迹，被光剑擦过的地方会发红发热。两台机甲的设计全程保持一致，金色始终是金色，黑色始终是黑色。\n\n【近景细节（摄影机掠过时可以看到）】\n金色机甲：头盔V字头冠的边缘有细细的银色刻线；白金色目镜里有流动的光纹；肩甲内侧是层层叠叠的精密机械结构；光剑剑柄上有金色的环形纹路，剑刃里的能量像液体一样流动；翅膀每一片翼板的连接处都有小型推进口，飞行时一起喷出细小的蓝白色火焰；装甲表面有细微的使用痕迹，让它看起来真实而有重量。\n黑色机甲：头盔两只尖角的表面有细密的划痕；深红色目镜像一道裂缝，时明时暗；装甲缝隙中的深红色光线随着动作一明一暗，像在呼吸；重剑的锯齿之间有暗红色的光在流动；翅膀刀片的边缘被打磨得极其锋利，反射着夕阳的金光；关节处的液压杆在每次挥剑时都会明显伸缩。\n\n【城市细节】\n城市是一座宏伟的现代都市：玻璃幕墙的摩天大楼高低错落，楼顶有停机坪和天线；宽阔的大道上停着空无一人的汽车，红绿灯还在闪烁；大河上横跨着几座钢结构大桥，桥上的路灯排成一条线；城市边缘是连绵的群山，在夕阳下呈现淡紫色的轮廓。整座城市安静、空旷，所有人都已提前撤离到远方，画面中看不到任何人。\n\n【结尾定格画面】\n最后一秒的画面要极具史诗感和海报感：画面下方是被尘土和金色光芒笼罩的城市，中央是正在缓缓升起的巨大圆顶云团，云团边缘被夕阳照成金红色；画面前景偏右，金色机甲展开两对翅膀悬停在空中，背对镜头，只有轮廓被金光勾勒，翅膀边缘的光刃仍在微微发亮，身边飘着细小的金色火花；天空从金黄过渡到深橙，最后一抹阳光从云团旁边射出，形成一道巨大的光柱。\n\n【一致性要求】\n整段30秒必须是同一个连续镜头，摄影机的运动轨迹连贯流畅，没有任何跳跃。两台机甲的外形、颜色、比例、装备在整段视频中保持完全一致，不会突然变形或换装。两台机甲始终是巨大的，城市和云层始终提供清晰的尺度参照。光线方向保持一致，太阳始终在同一侧。所有能量效果的颜色保持统一：金色属于金色机甲，深红色属于黑色机甲。\n\n【两台机甲的对抗关系】\n这是一场势均力敌、你来我往的宿命对决。金色机甲代表光明与速度，招式轻盈而精准，善于闪避和反击；黑色机甲代表力量与压迫，招式沉重而凶狠，善于正面硬碰和远程压制。前半段双方不分高下，攻守不断互换；中段黑色机甲用隐藏光链短暂占据上风；最后金色机甲抓住破绽，从太阳的方向发起闪电般的终极俯冲，一举分出胜负。整场对决让观众始终屏住呼吸，不知道下一秒谁会占上风。\n\n【场景】\n黄金时刻，一座现代化超大都市的上空。下方是密集的玻璃摩天大楼天际线，一座座高楼的玻璃幕墙反射着夕阳；城市中有宽阔的大道、几座横跨河面的大桥和一条蜿蜒的大河。整座城市已经提前完全清空，街道、桥梁和楼宇里没有任何人。天空中散布着层层叠叠的积云和薄雾，被低垂的夕阳染成金色和橙色；太阳挂在地平线上方不远处，在高楼之间闪耀，形成一道道金色光柱。高空有一层厚厚的云海，机甲可以穿过云层冲到云海之上。云海之上的天空干净通透，从地平线的金橙色渐变到头顶的淡青色，几缕高空卷云被夕阳照成粉金色；远处的地平线上还能看到连绵的山脉和一抹淡淡的海岸线，让整个世界显得辽阔无比。\n\n【画面与调色】\n好莱坞现代科幻大片风格，ARRI Alexa 65 大画幅摄影机配变形宽银幕镜头，IMAX级别的宏大画面。调色：黄金时刻浓郁的橙色和琥珀色高光，深青色和蓝绿色的暗部，经典的橙青对比，高对比度但暗部保留细节，高光柔和过渡。光线：强烈的逆光和装甲轮廓光，夕阳在金色装甲上形成耀眼的高光，在黑色装甲边缘勾出一圈细细的金边；穿过烟雾、云层和尘土的体积光；大气透视让远处的楼宇和机甲逐渐融入薄雾，营造巨大的体量感。镜头质感：水平的变形镜头光晕、椭圆形焦外光斑、轻微的边缘柔化和镜头呼吸、细腻的胶片颗粒、高光周围柔和的光晕。剪影摄影：很多时刻让两台机甲在耀眼的太阳、能量光芒和云层前呈现为纯黑色剪影，只有轮廓被金光勾勒。画面中最饱和、最醒目的颜色是金色能量与深红色能量的强烈对比。\n\n【色彩分级细节】\n高光：温暖的金色和琥珀色，带有柔和的胶片光晕，金色装甲和阳光是画面中最亮的部分。\n中间调：带一点暖橙色，云层和楼宇呈现层次丰富的金橙渐变。\n暗部：深青色和墨绿色，黑色机甲的暗面依然保留装甲细节，不会变成一片纯黑。\n饱和度：整体略微克制，只有金色能量、深红色能量和夕阳保持高饱和，形成强烈的视觉焦点。\n质感：模拟柯达2383电影胶片的色彩和颗粒，暗部有细腻的颗粒，高光边缘有淡淡的红色光晕。\n\n【节奏曲线】\n0–3秒：凝固与悬念，屏住呼吸；3–9秒：瞬间爆发，节奏最快的连续交锋；9–15秒：追逐与上升，速度感最强；15–2…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125792726692266222/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125792726692266222"
+ },
+ {
+  "id": "2125801723172467109",
+  "title": "Comparison of Moroccan palace in Three.js code",
+  "title_zh": "摩洛哥宫殿Three.js代码生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "teddyaisi",
+   "name": "Teddy"
+  },
+  "postUrl": "https://x.com/teddyaisi/status/2125801723172467109",
+  "createdAt": "2026-11-26T04:00:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125801723172467109/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125801723172467109/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125801723172467109"
+ },
+ {
+  "id": "2125824275479449736",
+  "title": "Noir horror game prototype with PS1 graphics",
+  "title_zh": "带有PS1风格图形的黑色恐怖游戏原型",
+  "category": "game",
+  "author": {
+   "handle": "Greg_GL_87",
+   "name": "Greg Glazewski"
+  },
+  "postUrl": "https://x.com/Greg_GL_87/status/2125824275479449736",
+  "createdAt": "2026-11-26T05:29:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125824275479449736/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125824275479449736/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125824275479449736"
+ },
+ {
+  "id": "2125831737213079675",
+  "title": "Using AI swarm workflow for app development",
+  "title_zh": "使用AI集群工作流进行应用开发",
+  "category": "explainer",
+  "author": {
+   "handle": "FinanceYF5",
+   "name": "AI Will"
+  },
+  "postUrl": "https://x.com/FinanceYF5/status/2125831737213079675",
+  "createdAt": "2026-11-26T05:59:16.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125831737213079675/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-neon/2125831737213079675/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125831737213079675"
+ },
+ {
+  "id": "2125847678152290485",
+  "title": "Comparison of Opus 5.6 and Gemini 4 Neon",
+  "title_zh": "Opus 5.6 与 Gemini 4 Neon 的对比测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Shohank9n1",
+   "name": "Shohan"
+  },
+  "postUrl": "https://x.com/Shohank9n1/status/2125847678152290485",
+  "createdAt": "2026-11-26T07:02:37.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-5/2125847678152290485/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-5/2125847678152290485/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2125847678152290485"
  }
 ]
