@@ -2,17 +2,17 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-33 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
+40 Gemini 4 Neon videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Neon on SandBase Lab. New to prompting Gemini 4 Neon? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (7)
+- [3D scenes](#3d-scene) (9)
 - [Motion graphics](#motion-graphics) (6)
-- [Games](#game) (2)
+- [Games](#game) (3)
 - [Product UI](#ui-demo) (3)
-- [Explainers](#explainer) (2)
+- [Explainers](#explainer) (3)
 - [Launch films](#launch-film) (3)
-- [Tests & comparisons](#comparison) (10)
+- [Tests & comparisons](#comparison) (13)
 
 <a id="3d-scene"></a>
 
@@ -179,6 +179,62 @@ Everything orbits on mouse, switches between 6 camera angles and runs in the bro
 45 seconds. Watch this video today. Autodesk, Blender, Unity - the entire 3D visualization industry just got a warning
 ```
 
+### Interactive magnetic singularity lab in Three.js
+
+[@sonuv_dev](https://x.com/sonuv_dev/status/2126251704807297338) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126251704807297338/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126251704807297338?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+I gave Gemini 4 Neon complete creative freedom with one instruction:
+
+"Do whatever you like with Three.js and tools of your choice."
+
+It built FERRO-08, an interactive magnetic singularity lab with 600 orbiting metallic droplets, 4 materials, 4 physics regimes and real-time audio-reactive shaders.
+
+All inside a single HTML file.
+
+Giving AI creative freedom is becoming my favourite benchmark.
+```
+
+### Arcane-style canal undercity in Blender
+
+[@Motion_Viz](https://x.com/Motion_Viz/status/2126321395160568002) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126321395160568002/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126321395160568002?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Using Fable 5.2 & Gemini 4 Neon to Control Blender 5.3 EEVEE and Build an Arcane-Style Canal Undercity (Act II of 3)
+
+- PROMPT BELOW 🛑
+
+Continuation of Act I. The golden core falls off the sky citadel and drops into a rain-drenched brass canal canyon below.
+Night scenes in EEVEE are way harder than daylight because bad roughness and light settings instantly ruin the whole frame.
+
+【What I Learned】
+① Wet streets & dark water MUST be pure dielectric (Metallic = 0.0)
+Whenever I raised Metallic on dark wet cobblestones or canal water, EEVEE multiplied the reflections by the dark base color and turned the ground pitch black. Keeping `Metallic = 0.0` with `Coat Weight = 0.96-1.0`, `Coat Roughness = 0.008-0.025`, and `IOR = 1.92-2.02` turned the canal into a real liquid mirror reflecting the glowing tavern and steam barge.
+
+② Kill fake specular circles on wet floors with one light flag
+Default Blender point and spot lights leave ugly circular white blobs across wet roads and water. Setting `specular_factor = 0.0` on every single point and spot light eliminated 100% of them while keeping real geometry and emissive window reflections crisp.
+
+③ Replace infinite World fog with a bounded local mist box
+Putting VolumeScatter on the World shader killed the midnight-blue sky slit between the tenements. Instead, I put a single wireframe box (`28m x 62m x 26m`) with `Density = 0.004` inside the canal canyon and set `volume_factor = 0.03` on point lights. Real atmospheric mist inside the street, crisp stormy blue sky overhead, zero glowing fog balls.
+
+④ Anchor overhead bridges solidly into side facades
+On pass 1, the riveted copper pipe bridge abutments floated slightly in front of the tenements and a foreground street lamp blocked the tavern hero shot. Scaling the bridge span to embed cleanly into both tenement walls and checking a hero comparison still caught both before rendering a single animation frame.
+
+⑤ Add subtle life to static worlds
+Animating the suspended rail-car gliding across the overhead pipe bridge and giving the moored brass steam barge a gentle water bob made the camera sweep feel alive instead of a frozen diorama.
+
+Overall build & cost for Act II (The Ember Canal)
+Model: Fable 5.2 & GEMINI 4 Neon (medium effort, 4 parallel builders + 1 assembler)
+Reference generation: Codex GPT Image (23 PNGs, $0 extra API cost)
+Mesh generation: 100% pure Blender Python (bpy). 0 paid 3D models.
+Scene stats: 18 bespoke .blend assets (Ember Drop Tavern, Brass Steam Barge, Zaun tenements, clockwork foundry, apothecary, pipe bridges, rail-car, dock cranes, Abyssal Sluice Gate), 17,747 objects, 861,807 polygons, 24 scripts (10,627 LOC)
+Hardware: Apple M5 MacBook (16GB), Blender 5.3 EEVEE
+
+The full 3-world connected 4K film + Act III (The Sunken Sanctum) drops tomorrow at 10 PM IST.
+
+Copy-paste Prompt for the exact Blender 5.3 night/wet-reflection lighting rules is in the comment below ↓
+```
+
 <a id="motion-graphics"></a>
 
 ## Motion graphics
@@ -299,6 +355,24 @@ games like this used to take a team, a budget, and months. now they can cost a f
 when a game costs less than a coffee, studios will ship weekly, and player prices will fall.
 
 (Psst... leaving prompt below)
+```
+
+### Generating high frame rate gameplay in GTA 6
+
+[@noisyb0y1](https://x.com/noisyb0y1/status/2126290568418406844) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126290568418406844/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126290568418406844?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+f*ck yes this worked, i hooked Gemini 4 Neon up to GTA 6 and the game went to 240 fps
+
+the console renders 30 frames, the agent builds the other 210 between them by reading motion vectors out of every frame
+
+3.8 ms per frame, which means it finishes drawing faster than the screen can refresh
+
+water, reflections and draw distance stop collapsing on turns, because the agent holds detail exactly where the camera is looking
+
+all of it from one prompt, not a single line of code, while the Rockstar patch is still two years out
+
+prompt in the comments ↓
 ```
 
 <a id="ui-demo"></a>
@@ -422,6 +496,28 @@ the full prompt is in the video. copy it, fill in the {{braces}}, done
 part 8 of lauren's bots
 
 follow @scryxnda and bookmark this. part 9 drops next. don't miss the alpha
+```
+
+### Pre-merge check workflow for coding agents
+
+[@HarryTandy](https://x.com/HarryTandy/status/2126383071322677400) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126383071322677400/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126383071322677400?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Do this before you merge another AI-written PR
+
+Gemini 4 Neon scored 12.8% on SWE-sweep in a bare mini-SWE run and 39.0% inside Google Antigravity
+
+The article turns that jump into a 7-step pre-merge check:
+> ground every API call in current docs
+> approve the plan before files change
+> review test diffs before source diffs
+> use a Stop hook to send the agent back when tests are red
+
+Review the tests first: an agent can delete an assertion and still leave you with a green suite
+
+Before merging, check the commands, outputs, and test diffs yourself
+
+Full demo attached. Prompts and setup are in the article
 ```
 
 <a id="launch-film"></a>
@@ -644,4 +740,50 @@ DeepSeek V4.1 Flash: 2:41, $0.015
 Claude Opus 5.5: still polishing when we cut it off at 25 min
 
 All 4 games are playable. Which one wins?
+```
+
+### Motion design comparison between two AI models
+
+[@sunset_evm](https://x.com/sunset_evm/status/2126251647969960307) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126251647969960307/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126251647969960307?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Gemini 4 Neon vs Claude Opus 5.5 in motion design🤯
+I used same prompt for both:
+
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out
+
+what result will you choose?
+```
+
+### Comparison of diving helmet models in Blender
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2126374228475723924) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126374228475723924/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126374228475723924?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+Opus 5.6 sculpted a 1940s diving helmet in Blender. Gemini 4 Neon made a f*cking bath toy.
+
+Same reference. Same prompt. Same Blender.
+
+Opus kept the brass grilles, the glass ports, every bolt on the collar, even the little nameplate.
+Neon melted it into a yellow blob with two blue stickers.
+
+Full workflow, prompt and Blender setup in the article below
+```
+
+### Comparison of 3D plague doctor mask models
+
+[@0xOrionVega](https://x.com/0xOrionVega/status/2126387773015810285) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-neon/2126387773015810285/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon/2126387773015810285?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-neon&utm_content=prompt-index)
+
+```text
+gemini 4 neon was my favorite for 3D. opus 5.6 just f*cking embarrassed it
+
+same plague doctor mask from 1650. same blender. both got the reference
+
+opus kept the brass goggles, every stitch on the beak, the rivets and the leather hood under the hat
+
+gemini made a bowling pin in a hat and painted the goggles on like a yellow marker
+
+which one would you put in your game?
+
+prompt and workflow placed below
 ```
